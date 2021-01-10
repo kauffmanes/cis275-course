@@ -120,9 +120,9 @@ Example: firstName=Emily, email=ekauffman@washjeff.edu
 </form>
 ```
 
-**Displays as:**
+<!-- **Displays as:** -->
 
-TBD - move to codepen?
+<!-- TBD - move to codepen? -->
 
 <!-- <form action="submit.php" method="get">
 	<label>Please select your favorite genre:<br/>
@@ -176,13 +176,13 @@ You can either use an input with a type "submit" or a button with type of "submi
 	</label>
 </form>
 ```
-**Displays as:**
-<form action="submit.php" method="get">
+<!-- **Displays as:** -->
+<!-- <form action="submit.php" method="get">
 	<label>Subscribe to our email list: <br/>
 		<input type="text" name="email" />
 		<button type="submit">Subscribe</button>
 	</label>
-</form>
+</form> -->
 
 ---
 
@@ -234,7 +234,7 @@ Group related form elements together.
 </fieldset>
 ```
 
-**Displays as:**
+<!-- **Displays as:** -->
 <!-- <fieldset>
 	<legend>Music Details</legend>
 	<label>Please select your favorite genre:<br/>

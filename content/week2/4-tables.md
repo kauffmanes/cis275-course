@@ -39,7 +39,7 @@ Here's an example someone made of a pricing table for their website. Feel free t
   </tr>
 </table>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <table>
   <tr>
     <td>1</td>
@@ -56,7 +56,7 @@ Here's an example someone made of a pricing table for their website. Feel free t
     <td>8</td>
     <td>9</td>
   </tr>
-</table>
+</table> -->
 
 
 ### Table with Headings
@@ -84,7 +84,7 @@ Here's an example someone made of a pricing table for their website. Feel free t
 </table>
 ```
 
-**Displays as:**
+<!-- **Displays as:**
 <table>
   <tr>
     <th></th>
@@ -101,7 +101,7 @@ Here's an example someone made of a pricing table for their website. Feel free t
     <td>$600</td>
     <td>$675</td>
   </tr>
-</table>
+</table> -->
 
 ### Spanning Columns/Rows
 Sometimes you want a cell to span multiple columns. To do this, use `colspan=""`. You can also do this with rows by using `rowspan=""`. Examples of both are in the book on page 133 and 134.
@@ -128,7 +128,7 @@ Sometimes you want a cell to span multiple columns. To do this, use `colspan=""`
   </tr>
 </table>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <table>
   <tr>
     <th></th>
@@ -148,7 +148,7 @@ Sometimes you want a cell to span multiple columns. To do this, use `colspan=""`
     <td colspan="3">Gym</td>
     <td>Home Ec</td>
   </tr>
-</table>
+</table> -->
 
 ### Long Tables
 There are three elements to help differentiate between a table header, body, and footer. They are not required for every table, but are helpful when displaying data (and also for later, when we style tables) so I recommend using them.
@@ -189,7 +189,7 @@ There are three elements to help differentiate between a table header, body, and
   </tfoot>
 </table>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <table>
   <thead>
     <tr>
@@ -223,5 +223,5 @@ There are three elements to help differentiate between a table header, body, and
       <td>1241</td>
     </tr>
   </tfoot>
-</table>
+</table> -->
 

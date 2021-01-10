@@ -163,13 +163,13 @@ Everything in this element will display in the browser.
 ...
 <h6>This is a level six heading</h6>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <h1>This is a main heading</h1>
 <h2>This is a level two heading</h2>
 <h3>This is a level three heading</h3>
 <h4>This is a level three heading</h4>
 <h5>This is a level three heading</h5>
-<h6>This is a level six heading</h6>
+<h6>This is a level six heading</h6> -->
 
 # Paragraphs
 ```html
@@ -187,10 +187,10 @@ The browser displays two or more spaces, as well as line breaks, as one space.
 I am a sentence in a paragraph element.</p>
 ```
 
-**Displays as:**<br/>
+<!-- **Displays as:**<br/>
 I am a sentence in a paragraph element.       I am a sentence in a paragraph element. 
       I am a sentence in a paragraph element.   I am a sentence in a paragraph element. I am a sentence in a paragraph element. 
-I am a sentence in a paragraph element.
+I am a sentence in a paragraph element. -->
 
 # Lists
 ```html
@@ -200,12 +200,12 @@ I am a sentence in a paragraph element.
   <li>Three!</li>
 </ol>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <ol>
   <li>One!</li>
   <li>Two!</li>
   <li>Three!</li>
-</ol>
+</ol> -->
 
 ```html
 <ul>
@@ -214,12 +214,12 @@ I am a sentence in a paragraph element.
   <li>Three!</li>
 </ul>
 ```
-**Displays as:**
+<!-- **Displays as:**
 <ul>
   <li>One!</li>
   <li>Two!</li>
   <li>Three!</li>
-</ul>
+</ul> -->
 
 # What do you need to know to begin?
 - Web pages are the rendering of coded text and script with other associated media types (graphics, video, audio, etc.)
