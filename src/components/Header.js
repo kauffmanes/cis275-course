@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from 'react';
 import styled from '@emotion/styled';
 import { StaticQuery, graphql } from 'gatsby';

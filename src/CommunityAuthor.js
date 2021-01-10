@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from 'react';
 
 const CommunityAuthor = ({ name, imageUrl, twitterUrl, githubUrl, description }) => {

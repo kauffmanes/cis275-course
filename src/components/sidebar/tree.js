@@ -69,8 +69,10 @@ const calculateTreeData = edges => {
 
   const tmp = [...forcedNavOrder];
 
+  /* eslint-disable-next-line */
   if (config.gatsby && config.gatsby.trailingSlash) {
   }
+
   tmp.reverse();
   return tmp.reduce((accu, slug) => {
     const parts = slug.split('/');

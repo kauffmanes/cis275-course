@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React, { useState, useEffect, createRef } from 'react';
 import {
   InstantSearch,

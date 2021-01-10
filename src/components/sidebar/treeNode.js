@@ -4,6 +4,7 @@ import ClosedSvg from '../images/closed';
 import config from '../../../config';
 import Link from '../link';
 
+/* eslint-disable-next-line */
 const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, ...rest }) => {
   const isCollapsed = collapsed[url];
 

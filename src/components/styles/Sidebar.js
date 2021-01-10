@@ -52,6 +52,7 @@ export const Sidebar = styled('aside')`
   }
 `;
 
+/* eslint-disable-next-line */
 export const ListItem = styled(({ className, active, level, ...props }) => {
   return (
     <li className={className}>

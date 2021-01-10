@@ -90,6 +90,7 @@ const Divider = styled(props => (
   }
 `;
 
+/* eslint-disable-next-line */
 const SidebarLayout = ({ location }) => (
   <StaticQuery
     query={graphql`
