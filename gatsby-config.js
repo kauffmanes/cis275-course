@@ -1,6 +1,8 @@
 require("dotenv").config();
 const queries = require("./src/utils/algolia");
+
 const config = require("./config");
+
 const plugins = [
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
@@ -23,6 +25,20 @@ const plugins = [
     resolve: 'gatsby-plugin-mdx',
     options: {
       gatsbyRemarkPlugins: [
+        {
+          resolve: "gatsby-remark-embed-video",
+          options: {
+            width: 800,
+            related: true, //Optional: Will remove related videos from the end of an embedded YouTube video.
+            noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+            urlOverrides: [
+              {
+                id: 'youtube',
+                embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+              }
+            ]
+          }
+        },
         {
           resolve: "gatsby-remark-images",
           options: {
@@ -49,6 +65,7 @@ const plugins = [
     },
   },
 ];
+
 // check and add algolia
 if (config.header.search && config.header.search.enabled && config.header.search.algoliaAppId && config.header.search.algoliaAdminKey) {
   plugins.push({

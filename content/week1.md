@@ -5,12 +5,14 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
+TBD - YOUTUBE VIDEO COURSE INTRO HERE
+
 # Learning Goals
-1. Who am I?
-1. Course site
+1. Understand the course description, syllabus, and expectations
+1. Understand how to use the course site
 1. Tools & Resources
-1. The World Wide Web
+1. History of the World Wide Web
 1. Intro to Hypertext Markup Language (HTML)
 
-# What's Due
-What's due this week
+# Due for next week
+1. Knowledge Check #1

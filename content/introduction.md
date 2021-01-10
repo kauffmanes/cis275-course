@@ -1,25 +1,25 @@
 ---
 title: "Course Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "CIS 275 | Course Introduction"
+metaDescription: "CIS 275 course Introduction"
 ---
 
-## Introduction
 Welcome to CIS 275! I'm excited to introduce you to the world of web design and development. This course assumes that you have no coding experience, at least in the web technologies that we'll be covering. It does assume, however, that you have access to a computer, are able to use a browser, can use a mouse, etc. If any of this is a problem, please let me know.
 
-### Who am I?
-![Discovery Robotics Team](https://discoveryrobotics.com/wp-content/uploads/2019/04/DR_ConventionCtr08_1699_Final_190319.jpg)
+## Who am I?
+![Emily standing in Svalbard](https://kauffeem-public.s3.amazonaws.com/cis275/emily.jpg)
 
-My name is Emily Kauffman. Presently, I am a software engineer at <a href="https://discoveryrobotics.com" target="_blank">Discovery Robotics</a>. I focus on application development and haptic interface design. This is a fancy way of saying that I develop the touch screen application that the user interacts with on the physical robot. What we're going to cover this semester are the some of the building blocks of what I use every day and I'm excited to pass along what I've learned.
+My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie Farm</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are the some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
 
-## Explanation of the course site
-Since this is a web course, everything will be web-based, including the syllabus (save the trees!). The syllabus will include all of the basic course info, as well as links for each class page. Each class will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets.
+For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and do a lot of my work in coffee shops or at the beach.
 
-### Disqus
-Each class page has a section to leave comments. My site uses <a href="https://disqus.com/" target="_blank">Disqus</a>, which is the most common global commenting system on the web. If you have a question or comment, I recommend asking it on the course page so that everyone can see it. You're also welcome to collaborate/answer others questions, or report issues with the content. Collaboration here is the goal. Guest commenting is enabled if you don't want to make an account.
+# Explanation of the course site
+Since this is a web course, everything will be web-based, including the syllabus (save the trees!). The syllabus will include all of the basic course info, as well as links for each class page. Each week will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets.
 
-### Code Snippets
-This are some examples of code snippets:
+To view an overview of the week's content, click on, for example, "Week 1" in the sidebar. You'll see an overview of the content, any notes I have for you, and anything that's due.
+
+## Code Snippets
+These are some examples of code snippets:
 
 ```html
 <!-- this is some HTML -->
@@ -33,13 +33,15 @@ p {
 }
 ```
 
-### Syllabus
-<a target="_blank" href="/teaching/cis-275/syllabus">https://www.emilykauffman.com/teaching/cis-275/syllabus</a>.
+## Syllabus
+Check out the [Syllabus](/syllabus) or click the Syllabus link in the sidebar. 
 
-## Tools to use
-This is really up to you. You'll need a text editor, a web browser, and a computer. A few popular editors are Sublime, Atom, and VSCode. The computers in this classroom should have Atom installed on them. You'll want to fully test your websites in all of the main browsers (Chrome, Firefox, Safari, etc), but you can choose any as your main testing browser. I like to use Chrome because of their development tools. Finally, you can use almost any computer for this class!
+# Tools to use
+This is really up to you. You'll need a text editor, a web browser, and a computer. A few popular editors are Sublime, Atom, and VSCode. If you're in the classroom, the computers should have Atom installed on them. You'll want to fully test your websites in all of the main browsers (Chrome, Firefox, Safari, etc), but you can choose any as your main testing browser. I like to use Chrome because of their development tools. Finally, you can use almost any computer for this class.
 
-## Trusted Resources
+# Trusted Resources
+There are many resources for web design & development on the web. Many are not trustworthy; they're out of date or just completely incorrect. The sites listed below are great resources. More than likely, this list will grow throughout the semester.
+
 - <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla MDN (free)</a>
 - <a href="https://css-tricks.com/" target="_blank">CSS Tricks (free)</a>
 - <a href="https://frontendmasters.com/" target="_blank">Frontend Masters ($20 per month for students)</a>

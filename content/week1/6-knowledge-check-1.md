@@ -4,6 +4,7 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
+# Review
 1. What are the three main languages used in web development? What are they used for?
 1. What can I find in the HTML Head section? What about the body?
 1. What is the minimum software needed to make a web page?
@@ -11,7 +12,6 @@ metaDescription: "This is the meta description"
 
 
 # In Class Exercises
-
 ## Exercise 1: Environment Setup
 ### Part A:
 1. Download or find a text editor on your system (Atom should be pre-installed on school computers).
@@ -29,7 +29,7 @@ metaDescription: "This is the meta description"
 1. Give your page a title called **Exercise 1** and test it in the browser.
 1. Add your charset meta tag and set it to "utf-8".
 
-## Exercise 2:
+## Exercise 2
 <!-- Create a book citation for HTML & CSS by Duckett using a format of your choice (MLA, APA, Chicago, etc). It should include all of the text formatting required (italic, bold, underline, etc). If the citation requires that the second line of the citation be tabbed, ignore this. -->
 1. Create a page called `exercise2.html`.
 1. Make sure to include all relevant HTML tags (doctype, HEAD)
@@ -60,24 +60,10 @@ Try to do this without looking, but here's an example if you're stuck: <a href="
 
 <!-- Me: there should be two identical images -->
 
-# Homework
-**Due**: Feb 4<br/>
+## Exercise 4
 
 By this point, we've covered the basic HTML structure, some new elements, naming conventions, and workspace setup. This exercise will be an indicator for whether you've learned the content.
 
 Read <a target="_blank" href="https://www.impactbnd.com/blog/what-it-means-to-make-your-website-accessible">this article</a> on why website accessibility is important. Reflect on the reading and write a short response, about 250 words. Next, markup the response using HTML so that it renders correctly in the browser. You'll only need to generate one HTML file for this. In the browser, the line breaks, emphasis, and any other typographic formatting should be present.
 
-All markup should be in accordance with the HTML5 specification.
-
-Feel free to validate it using this tool: <a target="_blank" href="http://validator.w3.org/#validate_by_input">http://validator.w3.org/#validate_by_input</a>
-
-
-# Next Class
-- Read: Duckett, Chps. 4-5
-- Homework: finish in class exercises, Homework #1
-
-# Resources
-1. [House Metaphor](https://btholt.github.io/intro-to-web-dev-v2/overview)
-1. _Duckett, John. Html &amp; CSS: Design and Build Websites. John Wiley and Sons, 2014._
-1. [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-1. [Wordpress Statistics](https://hostingtribunal.com/blog/wordpress-statistics/#gref)
+All markup should be in accordance with the HTML5 specification. Validate it using this tool: <a target="_blank" href="http://validator.w3.org/#validate_by_input">http://validator.w3.org/#validate_by_input</a>

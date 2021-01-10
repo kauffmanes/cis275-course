@@ -2,23 +2,7 @@
 title: "The World Wide Web"
 ---
 
-<!-- 1 minute -->
-<!--
-  Previous Class Questions?
-  Trouble finding book
-  Swipe access
-  Attendance
--->
-<article class="highlighted">
-  <h2>This class</h2>
-  <ol>
-    <li>Intro to HTML5</li>
-    <li>History of the web</li>
-    <li>Next week</li>
-  </ol>
-</article>
-
-### Intro
+# Intro
 
 <!-- 6 minutes -->
 Today we're going to talk about HTML5, specifically, what what it is and why we aren't talking about HTML1 instead. HTML stands for hypertext markup language. Markup languages are actually very common. They're not the same as programming language, instead they're special languages that are used to annotate, or markup documents.
@@ -44,7 +28,7 @@ Look closely at this example. The doctype is used to say "this is an HTML file".
 
 In the beginning, learning HTML is mostly memorizing these tags, which is called learning the syntax. It involves learning how to write tags with the brackets and slashes, the attributes for the tags, etc. You'll spend a lot of time wondering "did I write this correctly", is this the right type of bracket or slash. This is short-lived. Once you're comfortable with the syntax, your main concerns will be with the meaning of the tags. For example, should I use a paragraph tag or a heading tag here for this text? This is called learning the semantics.
 
-## History of the Web
+# History of the Web
 So how did we get to HTML5? What happened to HTML1? What even is the web? We're going to answer these questions and more. The web is a culmination of a series of innovations over a long period of time, where each subsequent invention built on what came before it. Eventually, it leads up to where we are today.
 
 <a target="_blank" href="https://docs.google.com/presentation/d/15MDMhh7tvmcJyx_C7DISFoVOX0oydTbd6dGbmyMpong/edit#slide=id.g35f391192_029">History of the Web Slides</a>
@@ -53,13 +37,6 @@ So how did we get to HTML5? What happened to HTML1? What even is the web? We're 
 <!-- <iframe src="https://www.icloud.com/keynote/0ExhTIUnG6mMkPHpsoxo68BiA?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe> -->
 
 `youtube: J8hzJxb0rpc`
-
-<!-- ## How do People Access the Web? -->
-
--------------
-
-## Next Class
-- Read: Duckett, Introduction &amp; Chps. 1-3
 
 ## Resources
 1. <p id="feecite" style="font-style:italic">Fee, Sam. Timeline Update. Computing & Information Studies, Washington & Jefferson College.</p>

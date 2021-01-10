@@ -220,3 +220,15 @@ I am a sentence in a paragraph element.
   <li>Two!</li>
   <li>Three!</li>
 </ul>
+
+# What do you need to know to begin?
+- Web pages are the rendering of coded text and script with other associated media types (graphics, video, audio, etc.)
+- Three main components: the text content, the referenced content, and the markup
+- Learn by looking at the source code of existing websites (Chrome devtools)
+- <a target="_blank" href="http://samfee.net">samfee.net</a>
+
+# Resources
+1. [House Metaphor](https://btholt.github.io/intro-to-web-dev-v2/overview)
+1. _Duckett, John. Html &amp; CSS: Design and Build Websites. John Wiley and Sons, 2014._
+1. [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+1. [Wordpress Statistics](https://hostingtribunal.com/blog/wordpress-statistics/#gref)
