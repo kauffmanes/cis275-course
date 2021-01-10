@@ -58,7 +58,7 @@ This represents the minimum you should do to successfully complete the exercise.
 should feel free to go further – such practice will only improve your skills. In the end
 your browser might display something like this:
 
-<figure>
+<!-- <figure>
     <img src="../../../images/widehw6.PNG" alt="a wide screen shot of example exercise 6">
     <figcaption>A wide screen shot of exercise 6</figcaption>
 </figure>
@@ -76,7 +76,7 @@ your browser might display something like this:
 <figure class="gif-wrapper">
     <img src="../../../images/hw6example.gif" alt="gif of a responsive website changing widths">
     <figcaption>Responsive website in action</figcaption>
-</figure>
+</figure> -->
 
 ## Next Class
 Next class, we're going to be doing more work with responsive web design.
