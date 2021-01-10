@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://cis-275.emilykauffman.com',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -37,31 +37,44 @@ const config = {
     },
   },
   sidebar: {
+    
+    // add trailing slash if enabled above
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/introduction',
+      '/syllabus',
+      '/week1',
+      '/week2',
+      '/week3',
+      '/week4',
+      '/week5',
+      '/week6',
+      '/week7',
+      '/week8',
+      '/week9',
+      '/week10',
+      // '/layouts'
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      // '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'Emily Kauffman', link: 'https://emilykauffman.com' }],
     frontline: false,
     ignoreIndex: true,
     title:
       "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'CIS 275 | Emily Kauffman',
+    description: 'Coursework for CIS 275',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: '',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'CIS 275 Course',
+      short_name: 'cis275-course',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',

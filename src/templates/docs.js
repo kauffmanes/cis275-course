@@ -6,7 +6,7 @@ import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 import { Layout, Link } from '$components';
 import NextPrevious from '../components/NextPrevious';
 import config from '../../config';
-import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
+import { Edit, StyledHeading, StyledSubtitle, StyledMainWrapper } from '../components/styles/Docs';
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
 
@@ -70,6 +70,8 @@ export default class MDXRuntimeTest extends Component {
 
     const metaDescription = mdx.frontmatter.metaDescription;
 
+    const subtitle = mdx.frontmatter.subtitle;
+
     let canonicalUrl = config.gatsby.siteUrl;
 
     canonicalUrl =
@@ -91,7 +93,10 @@ export default class MDXRuntimeTest extends Component {
           <link rel="canonical" href={canonicalUrl} />
         </Helmet>
         <div className={'titleWrapper'}>
-          <StyledHeading>{mdx.fields.title}</StyledHeading>
+          <StyledHeading>
+            {mdx.fields.title}<br />
+            <StyledSubtitle>{mdx.fields.subtitle}</StyledSubtitle>
+          </StyledHeading>
           <Edit className={'mobileView'}>
             {docsLocation && (
               <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
@@ -123,6 +128,7 @@ export const pageQuery = graphql`
       fields {
         id
         title
+        subtitle
         slug
       }
       body
@@ -143,6 +149,7 @@ export const pageQuery = graphql`
           fields {
             slug
             title
+            subtitle
           }
         }
       }

@@ -12,6 +12,11 @@ export const StyledHeading = styled('h1')`
   color: ${props => props.theme.colors.heading};
 `;
 
+export const StyledSubtitle = styled('small')`
+  font-size: 16px;
+  font-weight: 300;
+`;
+
 export const Edit = styled('div')`
   padding: 1rem 1.5rem;
   text-align: right;
