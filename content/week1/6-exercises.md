@@ -1,22 +1,19 @@
 ---
-title: "Knowledge Check #1"
+title: "Exercises"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-# Review
-1. What are the three main languages used in web development? What are they used for?
-1. What can I find in the HTML Head section? What about the body?
-1. What is the minimum software needed to make a web page?
-1. What tag is used to populate the browser bar in a web page?
+import { quiz } from './quiz';
 
+<Quiz quiz={quiz} shuffle={true} />
 
 # In Class Exercises
 ## Exercise 1: Environment Setup
 ### Part A:
 1. Download or find a text editor on your system (Atom should be pre-installed on school computers).
 1. Download or find a browser to use.
-1. If you haven't already, make a folder to hold your lecture 3 activities.
+1. If you haven't already, make a folder to hold your week 1 activities.
 1. Create a new web page (HTML document) labeled `exercise1.html`.
 1. Make sure it has a doctype and HTML section. A HEAD section is not needed yet.
 1. In the body (you'll have to make a body element), add content to the document so that you have a level one heading that says 'My first website!'.

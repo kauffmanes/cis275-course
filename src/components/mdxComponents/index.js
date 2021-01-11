@@ -2,7 +2,7 @@
 
 import React from 'react';
 import styled from '@emotion/styled';
-
+import Quiz from 'react-quiz-component';
 import CodeBlock from './codeBlock';
 import AnchorTag from './anchor';
 
@@ -38,6 +38,7 @@ export default {
   ),
   code: CodeBlock,
   a: AnchorTag,
+  Quiz
   // TODO add `img`
   // TODO add `blockquote`
   // TODO add `ul`

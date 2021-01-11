@@ -732,6 +732,14 @@ export const baseStyles = css`
     -webkit-transition: top 0.5s, bottom 0.5s;
   }
 
+  .react-quiz-container {
+    border: solid 1px rgba(0,0,0,.1);
+    margin: 0;
+    padding: 20px;
+    max-width:600px;
+    width: 100%;
+  }
+
   @media (max-width: 767px) {
     .formElement svg path {
       fill: #001934;

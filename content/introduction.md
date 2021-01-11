@@ -9,7 +9,7 @@ Welcome to CIS 275! I'm excited to introduce you to the world of web design and 
 ## Who am I?
 ![Emily standing in Svalbard](https://kauffeem-public.s3.amazonaws.com/cis275/emily.jpg)
 
-My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie Farm</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are the some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
+My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are the some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
 
 For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and do a lot of my work in coffee shops or at the beach.
 
@@ -38,6 +38,8 @@ Check out the [Syllabus](/syllabus) or click the Syllabus link in the sidebar.
 
 # Tools to use
 This is really up to you. You'll need a text editor, a web browser, and a computer. A few popular editors are Sublime, Atom, and VSCode. If you're in the classroom, the computers should have Atom installed on them. You'll want to fully test your websites in all of the main browsers (Chrome, Firefox, Safari, etc), but you can choose any as your main testing browser. I like to use Chrome because of their development tools. Finally, you can use almost any computer for this class.
+
+There are online code editors such as [CodePen](https://codepen.io) that can be very useful for collaborating with others. I'll more than likely be using this in my lectures and could send CodePen links for class exercises.
 
 # Trusted Resources
 There are many resources for web design & development on the web. Many are not trustworthy; they're out of date or just completely incorrect. The sites listed below are great resources. More than likely, this list will grow throughout the semester.
