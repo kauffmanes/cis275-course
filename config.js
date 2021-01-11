@@ -9,7 +9,7 @@ const config = {
     logo: '',
     logoLink: '',
     title:
-      "<a href='https://cis275.emilykauffman/'>CIS 275 | Emily Kauffman</a>",
+      "<a href='https://emilykauffman/'>Emily Kauffman</a>",
       // "<a href='https://cis275.emilykauffman.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
 
     githubUrl: 'https://github.com/kauffmanes/cis275-course',
@@ -32,7 +32,7 @@ const config = {
       '/introduction',
       '/syllabus',
       '/week1',
-      // '/week2',
+      '/week2',
       // '/week3',
       // '/week4',
       // '/week5',
@@ -46,7 +46,7 @@ const config = {
       // '/week13'
     ],
     collapsedNav: [
-      // '/codeblock', // add trailing slash if enabled above
+      // '/week2', // add trailing slash if enabled above
     ],
     links: [{ text: 'Emily Kauffman', link: 'https://emilykauffman.com' }],
     frontline: false,

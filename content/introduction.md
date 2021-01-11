@@ -9,7 +9,7 @@ Welcome to CIS 275! I'm excited to introduce you to the world of web design and 
 ## Who am I?
 ![Emily standing in Svalbard](https://kauffeem-public.s3.amazonaws.com/cis275/emily.jpg)
 
-My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are the some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
+My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
 
 For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and do a lot of my work in coffee shops or at the beach.
 
