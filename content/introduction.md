@@ -11,10 +11,10 @@ Welcome to CIS 275! I'm excited to introduce you to the world of web design and 
 
 My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <a href="https://harvie.farm" target="_blank">Harvie</a>. I focus on application development and my day consists of designing web pages, writing HTML, CSS, and JavaScript. What we're going to cover this semester are some of the building blocks of what I use every day and I'm excited to pass along what I've learned. I'm also a W&J alum!
 
-For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and do a lot of my work in coffee shops or at the beach.
+For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and post-COVID, hope to travel a lot more while working.
 
 # Explanation of the course site
-Since this is a web course, everything will be web-based, including the syllabus (save the trees!). The syllabus will include all of the basic course info, as well as links for each class page. Each week will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets.
+Since this is a web course, everything will be web-based, including the syllabus. The syllabus will include all of the basic course info, as well as links for each class page. Each week will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets.
 
 To view an overview of the week's content, click on, for example, "Week 1" in the sidebar. You'll see an overview of the content, any notes I have for you, and anything that's due.
 

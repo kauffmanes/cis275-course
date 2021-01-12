@@ -62,6 +62,6 @@ Try to do this without looking, but here's an example if you're stuck: <a href="
 
 By this point, we've covered the basic HTML structure, some new elements, naming conventions, and workspace setup. This exercise will be an indicator for whether you've learned the content.
 
-Read <a target="_blank" href="https://www.impactbnd.com/blog/what-it-means-to-make-your-website-accessible">this article</a> on why website accessibility is important. Reflect on the reading and write a short response, about 250 words. Next, markup the response using HTML so that it renders correctly in the browser. You'll only need to generate one HTML file for this (`exercise4.html`). In the browser, the line breaks, emphasis, and any other typographic formatting should be present.
+Read <a target="_blank" href="https://fortune.com/2019/09/21/beyonce-lawsuit-website-ada-compliant/">this article</a> on why website accessibility is important. Reflect on the reading and write a short response, about 250 words. Next, markup the response using HTML so that it renders correctly in the browser. You'll only need to generate one HTML file for this (`exercise4.html`). In the browser, the line breaks, emphasis, and any other typographic formatting should be present.
 
 All markup should be in accordance with the HTML5 specification. Validate it using this tool: <a target="_blank" href="http://validator.w3.org/#validate_by_input">http://validator.w3.org/#validate_by_input</a>
