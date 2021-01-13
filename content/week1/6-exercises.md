@@ -20,7 +20,7 @@ When you've completed the following exercises, make a zip of your Week 1 exercis
 1. Make sure it has a doctype and HTML section. A HEAD section is not needed yet.
 1. In the body (you'll have to make a body element), add content to the document so that you have a level one heading that says 'My first website!'.
 1. Add a paragraph descibing something you learned in this class so far.
-1. Test it in the browser. Check out the URL. What is this type of URL? Compare it to your neighbor's.
+1. Test it in the browser. Check out the URL. What is this type of URL?
 1. Test it in a different browser. Are there any noticeable differences? If yes, why might they look differently?
 
 ### Part B:

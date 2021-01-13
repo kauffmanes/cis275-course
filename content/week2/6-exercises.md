@@ -23,13 +23,13 @@ Based on the image below (also called a "mockup"), create an HTML page called `i
 
 ---
 
-![Mockup of Dubjay Designs home page](../../../images/exercise1.png)
+![Mockup of Dubjay Designs home page](https://kauffeem-public.s3.amazonaws.com/cis275/exercise1.png)
 
 ---
 
 Logo to download and use:
 <div class="left-img">
-  <img style="width: initial" src="../../../images/dubjaydesignlogo.png" alt="DubJay Designs logo" />
+  <img style="width: initial" src="https://kauffeem-public.s3.amazonaws.com/cis275/dubjaydesignlogo.png" alt="DubJay Designs logo" />
 </div>
 
 ---
@@ -37,7 +37,7 @@ Logo to download and use:
 ### Exercise 2: Tables
 Potential clients have been asking you about how much everything costs. Based on the image below, create a new HTML page called `pricing.html`. Set the title to "Pricing | Lecture 5". Include the same logo above the heading like you did in Exercise 1. Once completed, validate your code using the <a target="_blank" href="http://validator.w3.org/#validate_by_input">W3 Validator</a>. Show me when you're done!
 
-![Mockup of Dubjay Designs pricing table](../../../images/exercise2.png)
+![Mockup of Dubjay Designs pricing table](https://kauffeem-public.s3.amazonaws.com/cis275/exercise2.png)
 
 ### Exercise 3: Links
 On the index.html page, add a link at the bottom of the page that links to the Pricing Page. On the pricing page, add a link to the bottom that says "Back to home" and takes you back to the index.html page.

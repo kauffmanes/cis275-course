@@ -4,22 +4,6 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Review HTML structure</li>
-    <li>Understand links and the different ways to use them</li>
-    <li>Display accessible images</li>
-  </ol>
-</article>
-
-## Review
-1. What do we know so far?
-1. How to name documents and view them in the browser
-1. HTML document structure & basic syntax
-
----
-
 ## Hyperlinks
 You'll commonly see the following types of links:
 - links from **one website** to **another**
@@ -82,7 +66,7 @@ Navigation example:
 - Every page and every image on the web has a URL composed of the domain name (ex. emilykauffman.com) and a path to the page or image (/teaching/cis-275/syllabus)
 - This is an **absolute URL** - you can get to it from anywhere by typing it in address bar
 
-![directory structure of a web page](../../../images/directory.png)
+![directory structure of a web page](https://kauffeem-public.s3.amazonaws.com/cis275/directory.png)
 
 #### Relative URLs
 - if all of your website files are in one folder, simply use the name of the file

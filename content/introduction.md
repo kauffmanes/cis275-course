@@ -14,9 +14,12 @@ My name is **Emily Kauffman**. Presently, I am a frontend software engineer at <
 For fun, I like to read, hike, and travel. I'm currently living in Guam and have recently discovered scuba diving! I work remotely (perks of the career!) and post-COVID, hope to travel a lot more while working.
 
 # Explanation of the course site
-Since this is a web course, everything will be web-based, including the syllabus. The syllabus will include all of the basic course info, as well as links for each class page. Each week will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets.
+Since this is a web course, everything will be web-based. Each week will have one or more associated web pages with an overview of the covered content, helpful links, homework, and code snippets. To view an overview of the week's content, click on, for example, "Week 1" in the sidebar. You'll see an overview of the content, any notes I have for you, and anything that's due.
 
-To view an overview of the week's content, click on, for example, "Week 1" in the sidebar. You'll see an overview of the content, any notes I have for you, and anything that's due.
+Our class discussions will all be on Microsoft Teams. You should have all been added to our team by now. Let me know if you can't get in.
+
+**CIS 275 Team:**
+https://teams.microsoft.com/l/team/19%3a1deec179256a467c96c0a0c046845426%40thread.tacv2/conversations?groupId=dcfe4241-968e-4a4f-b7d7-96793e6fc128&tenantId=00758a75-d55f-4737-a49c-29f42e96b59b
 
 ## Code Snippets
 These are some examples of code snippets:

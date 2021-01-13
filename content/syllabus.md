@@ -29,19 +29,22 @@ In addition to these two books, there may be assigned readings based on current 
 The only way to really learn this type of content is to do it every week. To that end, I'll be assigning exercises to complete on your own. If you get stuck, contact the PAL tutors, or email me.
 
 # Getting Help
-There are PAL tutors available to help with your course work. They can be found on the second floor of the Tech Center, either in the lounge.
+Tutoring for CIS courses is available Sunday through Thursday night, 7:00-10:00 PM, through the CIS PAL tutors. All tutoring will take place on-line via Teams. The tutoring Teams page is linked below. Visit that page during tutoring hours and the assigned tutor for the night will have identified themselves with a message in the main Channel. You can send them an individual chat or reply to their message to let them know what you need help with.
 
-<a href="mailto:manginogf@washjeff.edu">Gianni Mangino</a>: Monday and Wednesday, 7:00-10:00 PM <br/>
-<a href="mailto:berbackrj@washjeff.edu">Ryan Berback</a>: Tuesday, 7:00-10:00 PM
+**CIS PAL Tutoring Team:**
+https://teams.microsoft.com/l/team/19%3ae60866f910024b7b88da75489277dba9%40thread.tacv2/conversations?groupId=1b55cfbb-80e7-48c5-9077-9e6aefbe24a4&tenantId=00758a75-d55f-4737-a49c-29f42e96b59b
 
-You can also email me at <a href="mailto:ekauffman@washjeff.edu">ekauffman@washjeff.edu</a> with questions.
+We will be using Teams for all of our class discussions. If you have questions, you can post in here or message me.
+
+**CIS 275 Team:**
+https://teams.microsoft.com/l/team/19%3a1deec179256a467c96c0a0c046845426%40thread.tacv2/conversations?groupId=dcfe4241-968e-4a4f-b7d7-96793e6fc128&tenantId=00758a75-d55f-4737-a49c-29f42e96b59b
 
 # Schedule
-As you're (hopefully) aware, this class is asynchronous. This means that it is on you to complete the course work on your own during the week. The content "week" will start on each Tuesday. This is when I will post any announcements/expect you to read the weekly overview (on the course site). Even though the semester's content may be available earlier, it is subject to change up until each Tuesday.
+This class is asynchronous which means that it is on you to complete the course work on your own during the week. The content "week" will start on each Tuesday. This is when I will post any announcements/expect you to read the weekly overview (on the course site). Even though the semester's content may be available earlier, it is subject to change up until each Tuesday.
 
-I will post two classes worth of information each week on Tuesday. You will be expected to complete any required reading, content, exercises, and homework during the week. All materials will be due by **midnight** on Sunday. This gives me a day to review and make adjustments to the upcoming week if needed (e.g. if everyone is confused on the prior week's content, I'll adjust the upcoming week to include more of that). The typical structure will include video lectures focused on the assigned reading. The rest of the week will involve working on activities and/or discussions. 
+I will post two classes worth of information each week on Tuesday. You will be expected to complete any required reading, content, exercises, and homework during the week. All materials will be due by **11:59 PM on Sunday, EST**. This gives me a day to review and make adjustments to the upcoming week if needed (e.g. if everyone is confused on the prior week's content, I'll adjust the upcoming week to include more of that). The typical structure will include video lectures focused on the assigned reading. The rest of the week will involve working on activities and/or discussions. 
 
-| Week | Topic | Notes |
+<!-- | Week | Topic | Notes |
 | ----------- | ------- | ---------------- |
 | Week 1   | [Course Intro, The World Wide Web, Document Structure and &amp; Tags](/week1) |
 | Week 2   | [Links &amp; Images, Tables, Troubleshooting](/week2) |
@@ -55,7 +58,40 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | Week 10  | [Site Design Issues, Personal Sites](/week10) |
 | Week 11  | [Intro to Responsive Web Design, Grids, Media and Images, Media Queries](/week11) |
 | Week 12  | [RWD: Flows, Partner Usability Study](/week12) | |
-| Week 13  | [Bringing it all Together, What's Next](/week13) |
+| Week 13  | [Bringing it all Together, What's Next](/week13) | -->
+
+| Date | Topic | Reading |
+| ----------- | ------- | ---------------- |
+| January 26  | Course Intro, The World Wide Web | |
+| January 28  | Document Structure and &amp; Tags | Duckett, Introduction &amp; Chps. 1-3 |
+| February 2  | Links &amp; Images | Duckett, Chps. 4-5 |
+| February 4  | Tables, Troubleshooting | Duckett, Chp. 6 |
+| February 9  | Forms | Duckett, Chp. 7 |
+| February 11 | Extra Markup, Exam Review | Duckett, Chp. 8 |
+| February 16 | Office Hours |
+| February 18 | Office Hours |
+| February 23 | Exam 1: HTML | |
+| February 25 | Design Basics | |
+| March 2     | CSS Introduction | Duckett, Chps. 10-12 |
+| March 4     | Advanced CSS | Duckett, Chps. 13-15 |
+| March 9     | HTML5 Structural Elements and Exam Review | |
+| March 11    | Office Hours | |
+| March 16    | Exam 2: CSS | |
+| March 18    | More on Site Design | Duckett, Chp. 15 & 17 |
+| March 23    | CSS Layouts 1: Floats | Read **All About Floats** |
+| March 25    | CSS Layouts 2: Flex | |
+| March 30    | Office Hours |
+| April 1     | Office Hours |
+| April 6     | Layout Lab | |
+| April 8     | More Advanced CSS and Project Day | |
+| April 13    | Web Development Planning and Process | Duckett, Chp. 18 |
+| April 15    | Site Design Issues | Krug, Chps. 1-7 |
+| April 20    | Personal Sites | |
+| April 22    | Intro to Responsive Web Design, RWD: Grids | |
+| April 27    | RWD: Media and Images, Media Queries | |
+| April 29    | RWD: Flows | |
+| April 4     | Partner Usability Study |  Complete Homework 6, Krug, Chps. 9-10 |
+| April 6     | Bringing it all Together | Krug, Chps. 11-12 |
 
 This schedule is subject to change throughout the semester. See the <a target="_blank" href="https://www.washjeff.edu/academics/our-support/college-calendar/">Academic Calendar</a> for more.
 
