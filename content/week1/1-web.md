@@ -3,13 +3,14 @@ title: "The World Wide Web"
 ---
 
 # Intro
+`youtube:123`
 
 <!-- 6 minutes -->
 Today we're going to talk about HTML5, specifically, what what it is and why we aren't talking about HTML1 instead. HTML stands for hypertext markup language. Markup languages are actually very common. They're not the same as programming language, instead they're special languages that are used to annotate, or markup documents.
 
-We're going to do an in depth discussion of HTML next week, but for now, in HTML, tags tell the browser where you want to put headings, paragraphs, images, links, etc.
+We're going to do an in depth discussion of HTML in the next section, but for now, in HTML, tags tell the browser where you want to put headings, paragraphs, images, links, etc.
 
-HTML files have a .html file extension. You've all seen file extensions before, they tell your computer which application to use your open a file. For example, your computer opens **.doc** files in Microsoft Word, and **.ppt** in PowerPoint. The **.html** extension tells your computer to open the file using a web browser, such as Chrome, Safari, or Firefox.
+HTML files have a `.html` file extension. You've all seen file extensions before, they tell your computer which application to use your open a file. For example, your computer opens **.doc** files in Microsoft Word, and **.ppt** in PowerPoint. The **.html** extension tells your computer to open the file using a web browser, such as Chrome, Safari, or Firefox.
 
 Your browser can read this file and it knows how to display it on the screen. It also allows screen readers and other assisted devices to utilize the tags and present the information in ways that the user can understand. 
 

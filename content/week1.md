@@ -14,5 +14,10 @@ metaDescription: "This is the meta description"
 1. History of the World Wide Web
 1. Intro to Hypertext Markup Language (HTML)
 
-# Due for next week
-1. Knowledge Check #1
+# Section 1: World Wide Web
+Complete the [World Wide Web](week1/1-web) module
+
+# Section 2: HTML
+1. Read Duckett, Chps. Introduction, 1-3
+1. Complete the rest of Week 1 modules
+1. Complete Exercises before next week

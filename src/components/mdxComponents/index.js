@@ -38,7 +38,10 @@ export default {
   ),
   code: CodeBlock,
   a: AnchorTag,
-  Quiz
+  Quiz,
+  // table: props => <table id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />,
+  // tbody: props => <tbody id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />,
+  // thead: props => <thead id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />,
   // TODO add `img`
   // TODO add `blockquote`
   // TODO add `ul`

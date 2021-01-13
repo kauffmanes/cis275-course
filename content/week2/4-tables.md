@@ -9,8 +9,6 @@ A table represents information in grid format. They allow us to understand compl
 - Each block is in the grid is called a **table cell**.
 - In HTML, tables are written out row by row.
 
-[Class Syllabus](/syllabus)
-
 Here's an example someone made of a pricing table for their website. Feel free to click around and see what it does.
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="Comparison table" src="https://codepen.io/adrianjacob/embed/wMGpeX?height=265&theme-id=default&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
@@ -209,7 +207,6 @@ There are three elements to help differentiate between a table header, body, and
       <td>285</td>
       <td>48</td>
     </tr>
-      <!-- additional rows as above -->
     <tr>
       <th>31st January</th>
       <td>129</td>

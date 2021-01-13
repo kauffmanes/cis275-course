@@ -59,8 +59,7 @@ const config = {
     description: 'Coursework for CIS 275',
     ogImage: null,
     docsLocation: '',
-    // favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
-    favicon: ''
+    // favicon: 'src/pwa-512.png'
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
