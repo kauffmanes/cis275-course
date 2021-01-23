@@ -68,22 +68,22 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | February 4  | Tables, Troubleshooting | Duckett, Chp. 6 |
 | February 9  | Forms | Duckett, Chp. 7 |
 | February 11 | Extra Markup, Exam Review | Duckett, Chp. 8 |
-| February 16 | Office Hours |
-| February 18 | Office Hours |
+| February 16 | Lab Activities: HTML |
+| February 18 | Lab Activities: HTML |
 | February 23 | Exam 1: HTML | |
 | February 25 | Design Basics | |
 | March 2     | CSS Introduction | Duckett, Chps. 10-12 |
 | March 4     | Advanced CSS | Duckett, Chps. 13-15 |
 | March 9     | HTML5 Structural Elements and Exam Review | |
-| March 11    | Office Hours | |
+| March 11    | Lab Activities: CSS | |
 | March 16    | Exam 2: CSS | |
 | March 18    | More on Site Design | Duckett, Chp. 15 & 17 |
 | March 23    | CSS Layouts 1: Floats | Read **All About Floats** |
 | March 25    | CSS Layouts 2: Flex | |
-| March 30    | Office Hours |
-| April 1     | Office Hours |
-| April 6     | Layout Lab | |
-| April 8     | More Advanced CSS and Project Day | |
+| March 30    | Lab Activities: Layouts |
+| April 1     | Lab Activities: Layouts |
+| April 6     | More Advanced CSS | |
+| April 8     | Project Day | |
 | April 13    | Web Development Planning and Process | Duckett, Chp. 18 |
 | April 15    | Site Design Issues | Krug, Chps. 1-7 |
 | April 20    | Personal Sites | |
