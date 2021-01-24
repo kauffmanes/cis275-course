@@ -5,7 +5,15 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-`youtube:123`
+Welcome to the first week of classes!
+
+**Remember - the ideal way to learn and retain this information is to:**
+1. Review the Learning Goals
+1. On any page, just go through the content in order. This could mean watching a video and then reading the content under it, or vice versa
+1. On the exercises page - do the Knowledge Review
+1. Go back and review answers you got wrong
+1. Complete the exercises
+1. Send them to me by 11:59 PM Sunday evening
 
 # Learning Goals
 1. Understand the course description, syllabus, and expectations
@@ -13,11 +21,3 @@ metaDescription: "This is the meta description"
 1. Tools & Resources
 1. History of the World Wide Web
 1. Intro to Hypertext Markup Language (HTML)
-
-<!-- # Section 1: World Wide Web
-Complete the [World Wide Web](week1/1-web) module
-
-# Section 2: HTML
-1. Read Duckett, Chps. Introduction, 1-3
-1. Complete the rest of Week 1 modules
-1. Complete Exercises before next week -->

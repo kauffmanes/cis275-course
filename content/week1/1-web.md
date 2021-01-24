@@ -2,15 +2,34 @@
 title: "The World Wide Web"
 ---
 
-# Intro
-`youtube:123`
+# What is the World Wide Web and how does it work?
+1. Read the Introduction Chapter from the Duckett book
+1. Watch the video
+1. Review key terminology before moving on
+
+`youtube:TVfeSJ0MZAo`
+
+You may want to watch this one in full screen, since the drawing portion of it is in portrait mode.
+
+If you find that you're still confused on how the web works or want to understand the difference between the Internet and the Web, I recommend checking out this short video:
+
+`youtube: J8hzJxb0rpc`
+
+## Key terminology
+1. Browser
+1. Web server
+1. IP address
+1. DNS Server
+1. Request/Response
+
+# Intro to HTML
 
 <!-- 6 minutes -->
 Today we're going to talk about HTML5, specifically, what what it is and why we aren't talking about HTML1 instead. HTML stands for hypertext markup language. Markup languages are actually very common. They're not the same as programming language, instead they're special languages that are used to annotate, or markup documents.
 
 We're going to do an in depth discussion of HTML in the next section, but for now, in HTML, tags tell the browser where you want to put headings, paragraphs, images, links, etc.
 
-HTML files have a `.html` file extension. You've all seen file extensions before, they tell your computer which application to use your open a file. For example, your computer opens **.doc** files in Microsoft Word, and **.ppt** in PowerPoint. The **.html** extension tells your computer to open the file using a web browser, such as Chrome, Safari, or Firefox.
+HTML files have a `.html` file extension. You've all seen file extensions before, they tell your computer which application to use to open a file. For example, your computer opens **.doc** files in Microsoft Word, and **.ppt** in PowerPoint. The **.html** extension tells your computer to open the file using a web browser, such as Chrome, Safari, or Firefox.
 
 Your browser can read this file and it knows how to display it on the screen. It also allows screen readers and other assisted devices to utilize the tags and present the information in ways that the user can understand. 
 
@@ -32,12 +51,13 @@ In the beginning, learning HTML is mostly memorizing these tags, which is called
 # History of the Web
 So how did we get to HTML5? What happened to HTML1? What even is the web? We're going to answer these questions and more. The web is a culmination of a series of innovations over a long period of time, where each subsequent invention built on what came before it. Eventually, it leads up to where we are today.
 
+`youtube:123`
+
 <a target="_blank" href="https://docs.google.com/presentation/d/15MDMhh7tvmcJyx_C7DISFoVOX0oydTbd6dGbmyMpong/edit#slide=id.g35f391192_029">History of the Web Slides</a>
 
 <!-- 20 minutes -->
 <!-- <iframe src="https://www.icloud.com/keynote/0ExhTIUnG6mMkPHpsoxo68BiA?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe> -->
 
-`youtube: J8hzJxb0rpc`
-
 ## Resources
-1. <p id="feecite" style="font-style:italic">Fee, Sam. Timeline Update. Computing & Information Studies, Washington & Jefferson College.</p>
+1. <span id="feecite" style="font-style:italic">Fee, Sam. Timeline Update. Computing & Information Studies, Washington & Jefferson College.</span>
+1. [How the Web Works](https://www.youtube.com/watch?v=hJHvdBlSxug)
