@@ -4,14 +4,13 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Understand HTML structure</li>
-    <li>Learn about markup</li>
-    <li>Setup a development environment and write some code</li>
-  </ol>
-</article>
+# Goals
+1. Understand HTML structure
+1. Learn about markup
+1. Setup a development environment and write some code
+1. Read Ducket, Chps. 1-3 before continuing
+
+`youtube:123`
 
 # Website Technologies
 - **HTML** - hypertext markup language; describes the structure of web pages
@@ -64,7 +63,7 @@ In other words, if you're a web developer, you'll probably run into one at some 
 In this course, we will focus on HTML and CSS only, but it's important to understand how all of the components work together.
 
 # Anatomy of HTML
-Below is a basic example of a webpage. Don't worry too much about what it means - we'll dive into it soon. The HTML code is in the reddish color and the text is in white.
+Below is a basic example of a webpage. Don't worry too much about what it means - we'll dive into it soon.
 
 ```html
 <!doctype html>

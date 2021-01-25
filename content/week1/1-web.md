@@ -3,7 +3,7 @@ title: "The World Wide Web"
 ---
 
 # What is the World Wide Web and how does it work?
-1. Read the Introduction Chapter from the Duckett book
+1. Read the **Introduction Chapter** from the Duckett book
 1. Watch the video
 1. Review key terminology before moving on
 
@@ -25,6 +25,8 @@ If you find that you're still confused on how the web works or want to understan
 # Intro to HTML
 
 <!-- 6 minutes -->
+In the "How the Web Works" video above, it mentioned HTML and CSS as being two of the resources that the server sends back to the user's browser. These two languages are what you'll be learning this semester. 
+
 Today we're going to talk about HTML5, specifically, what what it is and why we aren't talking about HTML1 instead. HTML stands for hypertext markup language. Markup languages are actually very common. They're not the same as programming language, instead they're special languages that are used to annotate, or markup documents.
 
 We're going to do an in depth discussion of HTML in the next section, but for now, in HTML, tags tell the browser where you want to put headings, paragraphs, images, links, etc.
@@ -44,18 +46,18 @@ HTML is very similar to English; you can read it out and understand it even if y
 </html>
 ```
 
-Look closely at this example. The doctype is used to say "this is an HTML file". The html tag says "everything between these tags is HTML code". The h1 denotes a level one heading. Think of a word document, how you can set different headings. This is similar. Next is a paragraph tag. We have an image tag. You can see that it has two attributes, src and alt. The src simply says which image to display in the browser, and the alt tag is used by screen readers. If you are blind and viewing the web page, you won't be able to see the image, but the screen reader will read the alt text when it gets to that place on the page. Finally, we have what's called an anchor tag, or a hyperlink. When you click it, it redirects to the location specified in the href attribute. In this case, if I clicked the link, I'd be taken to the contact page.
+Look closely at this example. The `doctype` line is used to say "this is an HTML file". The html tag says "everything between these tags is HTML code". The h1 denotes a level one heading. Think of a word document and how you can set different headings. This is similar. Next is a paragraph tag. We have an image tag. You can see that it has two attributes, src and alt. The src simply says which image to display in the browser, and the alt tag is used by screen readers. If you are blind and viewing the web page, you won't be able to see the image, but the screen reader will read the alt text when it gets to that place on the page. Finally, we have what's called an anchor tag, or a hyperlink. When you click it, it redirects to the location specified in the `href` attribute. In this case, if I clicked the link, I'd be taken to the contact page.
 
-In the beginning, learning HTML is mostly memorizing these tags, which is called learning the syntax. It involves learning how to write tags with the brackets and slashes, the attributes for the tags, etc. You'll spend a lot of time wondering "did I write this correctly", is this the right type of bracket or slash. This is short-lived. Once you're comfortable with the syntax, your main concerns will be with the meaning of the tags. For example, should I use a paragraph tag or a heading tag here for this text? This is called learning the semantics.
+In the beginning, learning HTML is mostly memorizing these tags, which is called *learning the syntax*. It involves learning how to write tags with the brackets and slashes, the attributes for the tags, etc. You'll spend a lot of time wondering "did I write this correctly", is this the right type of bracket or slash. This is short-lived. Once you're comfortable with the syntax, your main concerns will be with the meaning of the tags. For example, should I use a paragraph tag or a heading tag here for this text? This is called *learning the semantics*.
 
 # History of the Web
 So how did we get to HTML5? What happened to HTML1? What even is the web? We're going to answer these questions and more. The web is a culmination of a series of innovations over a long period of time, where each subsequent invention built on what came before it. Eventually, it leads up to where we are today.
 
 `youtube:123`
 
+<!-- 20 minutes -->
 <a target="_blank" href="https://docs.google.com/presentation/d/15MDMhh7tvmcJyx_C7DISFoVOX0oydTbd6dGbmyMpong/edit#slide=id.g35f391192_029">History of the Web Slides</a>
 
-<!-- 20 minutes -->
 <!-- <iframe src="https://www.icloud.com/keynote/0ExhTIUnG6mMkPHpsoxo68BiA?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe> -->
 
 ## Resources
