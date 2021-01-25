@@ -11,16 +11,16 @@ title: "The World Wide Web"
 
 You may want to watch this one in full screen, since the drawing portion of it is in portrait mode.
 
-If you find that you're still confused on how the web works or want to understand the difference between the Internet and the Web, I recommend checking out this short video:
-
-`youtube: J8hzJxb0rpc`
-
 ## Key terminology
 1. Browser
 1. Web server
 1. IP address
 1. DNS Server
 1. Request/Response
+
+If you find that you're still confused on how the web works or want to understand the difference between the Internet and the Web, I recommend checking out this short video:
+
+`youtube: J8hzJxb0rpc`
 
 # Intro to HTML
 
@@ -53,7 +53,7 @@ In the beginning, learning HTML is mostly memorizing these tags, which is called
 # History of the Web
 So how did we get to HTML5? What happened to HTML1? What even is the web? We're going to answer these questions and more. The web is a culmination of a series of innovations over a long period of time, where each subsequent invention built on what came before it. Eventually, it leads up to where we are today.
 
-`youtube:2m2rEvlZGRk`
+`youtube:kdz0jpO9alE`
 
 <!-- 20 minutes -->
 <a target="_blank" href="https://docs.google.com/presentation/d/15MDMhh7tvmcJyx_C7DISFoVOX0oydTbd6dGbmyMpong/edit#slide=id.g35f391192_029">History of the Web Slides</a>
