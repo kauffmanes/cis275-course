@@ -14,6 +14,8 @@ When you've completed the following exercises, make a zip of your Week 1 exercis
 ## Exercise 1: Environment Setup
 ### Part A:
 1. Download or find a text editor on your system (Atom should be pre-installed on school computers).
+1. If you are colorblind, check out this site: https://colorblind-themes.tech/ for code editor themes that were created for specific colorblind types. Just filter by the editor of your choice.
+1. If you have dyslexia, check out this article on installing OpenDyslexic, a font that makes your code easier to read than the monospaced font that comes by default in most editors.
 1. Download or find a browser to use.
 1. Make a folder to hold your week 1 activities named `Week1-FirstNameLastName`.
 1. Create a new web page (HTML document) labeled `exercise1.html`.
