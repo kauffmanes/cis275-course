@@ -8,9 +8,9 @@ metaDescription: "This is the meta description"
 1. Understand HTML structure
 1. Learn about markup
 1. Setup a development environment and write some code
-1. Read Ducket, Chps. 1-3 before continuing
+1. Read Duckett, Chps. 1-3 before continuing
 
-`youtube:123`
+`youtube:TArOjyddBoM`
 
 # Website Technologies
 - **HTML** - hypertext markup language; describes the structure of web pages
