@@ -22,7 +22,7 @@ Based on the image below (also called a "mockup"), create an HTML page called `i
 
 ![Mockup of Dubjay Designs home page](https://kauffeem-public.s3.amazonaws.com/cis275/exercise1.png)
 
-**Logo to download and use:**
+**Logo to download and use** (right-click, save to your images folder):
 <div class="left-img">
   <img style="width: initial" src="https://kauffeem-public.s3.amazonaws.com/cis275/dubjaydesignlogo.png" alt="DubJay Designs logo" />
 </div>

@@ -9,8 +9,7 @@ Read **Duckett, Chp. 5** on Images before continuing.
 - Why use images?
 - Remember accessibility
 - Online images are subject to copyright
-- Good practice: use images folder
-<!-- 1. Images (use `img` not `image`) -->
+- Good practice: use images folder to hold all images
 
 ## Adding Images
 ```html
@@ -57,6 +56,9 @@ If your image has a caption, use `<figure>` and `<figcaption>`.
   <figcaption>This cat was rescued from the streets of Pittsburgh and now lives in a house downtown.</figcaption>
 </figure>
 ```
+
+Things are getting more complicated... don't try to memorize every detail! Use your book as a reference. Practicing often will cause you to learn them.
+
 <!-- 
 # Recap
 Things are getting more complicated... don't try to memorize every detail! Use your book as a reference. Practicing often will cause you to learn them.
