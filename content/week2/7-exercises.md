@@ -5,6 +5,7 @@ metaDescription: "Week 2 Exercises"
 ---
 
 # Knowledge Check
+You should be able to answer these questions.
 1. What's the difference between an absolute and relative URL?
 1. What does the `href` of an email link look like?
 1. What are the three different image formats we discussed? Why would you choose one over another?

@@ -5,7 +5,7 @@ metaTitle: "Week 2 Introduction"
 metaDescription: "Week 2 Introduction"
 ---
 
-`youtube:A-OcJagGEvQ`
+`youtube:sxbHaVQkH7o`
 
 # Learning Goals
 1. Review Week 1 exercises
