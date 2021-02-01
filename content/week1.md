@@ -1,8 +1,8 @@
 ---
 title: "Week 1"
 subtitle: "January 24-30, 2021"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Week 1 Introduction"
+metaDescription: "Week 1 Introduction"
 ---
 
 Welcome to the first week of classes!

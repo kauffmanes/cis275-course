@@ -1,15 +1,18 @@
 ---
 title: "Images"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Intro to Images"
+metaDescription: "Intro to Images"
 ---
+
+Read **Duckett, Chp. 5** on Images before continuing.
 
 - Why use images?
 - Remember accessibility
 - Online images are subject to copyright
 - Good practice: use images folder
+<!-- 1. Images (use `img` not `image`) -->
 
-### Adding Images
+## Adding Images
 ```html
 <!-- image is in same directory as html file -->
 <img src="cat.png" alt="my cat sitting on a couch" />
@@ -18,9 +21,9 @@ metaDescription: "This is the meta description"
 <img src="images/myimage.png" alt="my cat sitting on a couch" />
 ```
 
-If an image is decorative and has on meaning (such as a graphic dividing line), include the `alt` attribute but make the value an empty string ("").
+If an image is decorative and has one meaning (such as a graphic dividing line), include the `alt` attribute but make the value an empty string ("").
 
-### Height and Width
+## Height and Width
 You can specifiy height and width so when the page loads, it leaves room for the image. This is often overwritten in CSS.
 ```html
 <img src="images/myimage.png" alt="my cat sitting on a couch" height="300" width="400"/>
@@ -31,9 +34,7 @@ You can specifiy height and width so when the page loads, it leaves room for the
 - They can be placed before paragraphs, inside paragraphs but before text, or in a paragraph in the middle of some text.
 - See Duckett, pg. 101
 
----
-
-### Creating Images
+## Creating Images
 **Three rules:**
 
 1. Save images in the right format
@@ -42,14 +43,12 @@ You can specifiy height and width so when the page loads, it leaves room for the
 
 ![Bugs bunny and Daffy arguing over the pronunciation of GIF](https://www.thesun.co.uk/wp-content/uploads/2017/06/jif-or-gif.gif)
 
-### Transparency
+## Transparency
 - "see-through"
 - straight edges and 100% transparent - GIF
 - curved/rounded edges, partially opaque - PNG
 
----
-
-## Figure and Figcaption
+# Figure and Figcaption
 If your image has a caption, use `<figure>` and `<figcaption>`.
 ```html
 <figure>
@@ -58,25 +57,21 @@ If your image has a caption, use `<figure>` and `<figcaption>`.
   <figcaption>This cat was rescued from the streets of Pittsburgh and now lives in a house downtown.</figcaption>
 </figure>
 ```
-
----
-
-## Recap
+<!-- 
+# Recap
 Things are getting more complicated... don't try to memorize every detail! Use your book as a reference. Practicing often will cause you to learn them.
 - hyperlinks - link pages together
 - can link to the page you're on or another page, start emails, etc
-- images - format, sizing, resolution
+- images - format, sizing, resolution -->
 
----
-
-## Knowledge Check
+<!-- # Knowledge Check
 1. What's the difference between an absolute and relative URL?
 1. What does the `href` of an email link look like?
 1. What are the three different image formats we discussed? Why would you choose one over another?
 1. Why set a height/width on an image tag?
-1. What's the difference between an **inline** element and a **block** element?
+1. What's the difference between an **inline** element and a **block** element? -->
 
-## In Class Exercises
+<!-- ## In Class Exercises
 **Scenario**: you've decided that you want to make a website to hold some of your favorite writing, including outside sources and your own.
 
 *When doing the exercises, avoid copying and pasting HTML code from old exercises or the web since it makes learning it harder. You have the class time to make this become muscle memory.*
@@ -107,9 +102,9 @@ Things are getting more complicated... don't try to memorize every detail! Use y
 1. In your index.html and accessibility.html pages, add another link in the unordered list that links to the contact.html page.
 1. In the contact.html page, add an unordered list that contains links to the accessibility.html and index.html pages.
 
-Basically, at this point, you should be able to link to all other site HTML pages from the one you're on.
+Basically, at this point, you should be able to link to all other site HTML pages from the one you're on. -->
 
-### Exercise 3: Images
+<!-- ### Exercise 3: Images
 1. In your contact page, add a paragraph with a short description about yourself.
 1. Find a picture of yourself (download from social media, email it to yourself from your phone and then download, etc). If you don't want to use a picture of yourself, use a picture of a celebrity that you like.
 1. Place the image in your lecture 4 folder.
@@ -117,15 +112,7 @@ Basically, at this point, you should be able to link to all other site HTML page
 1. Find a second image online that depicts an activity that you enjoy. Get the **absolute link** to this file (to do this on Chrome, you right click on the image and copy the image location. Let me know if you get hung up on other browsers).
 1. Make another image tag after the photo of yourself. Set the `src` attribute to the copied absolute link from the previous step.
 1. Test in the browser and make sure that both images display.
-1. Show me when you're done.
-
----
-
-## Next Class
-- **Read**: Duckett, Chps. 6
-- **Homework**: finish in class exercises, Homework #2
-
----
+1. Show me when you're done. -->
 
 ## Resources
 1. _Duckett, John. Html &amp; CSS: Design and Build Websites. John Wiley and Sons, 2014._

@@ -1,7 +1,7 @@
 ---
 title: "Tables"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "All about tables"
+metaDescription: "All about tables"
 ---
 
 A table represents information in grid format. They allow us to understand complex data. What are some examples you've seen, web or not?

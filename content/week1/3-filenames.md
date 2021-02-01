@@ -1,7 +1,7 @@
 ---
 title: "Filenames and URLs"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Filenames and URLs"
+metaDescription: "Filenames and URLs"
 ---
 
 An HTML document is just a text document and you save it in the same way you'd save a Notepad text file.

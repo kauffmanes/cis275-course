@@ -1,7 +1,7 @@
 ---
 title: "Development Process"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Development Process"
+metaDescription: "Development Process"
 ---
 
 1. Create a Workspace

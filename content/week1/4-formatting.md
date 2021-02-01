@@ -1,7 +1,7 @@
 ---
 title: "Code Formatting"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Code Formatting"
+metaDescription: "Code Formatting"
 ---
 
 # Why indent your code?
