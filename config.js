@@ -33,7 +33,7 @@ const config = {
       '/syllabus',
       '/week1',
       '/week2',
-      // '/week3',
+      '/week3',
       // '/week4',
       // '/week5',
       // '/week6',
@@ -47,7 +47,7 @@ const config = {
     ],
     collapsedNav: [
       '/week1',
-      // '/week2', // add trailing slash if enabled above
+      '/week2',
       // '/week3',
       // '/week4',
       // '/week5',
