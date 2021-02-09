@@ -3,7 +3,7 @@ title: "Exercises"
 metaTitle: "Week 3 Exercises"
 metaDescription: "Week 3 Exercises"
 ---
-import { quiz } from './quiz';
+import { quiz } from './4-quiz';
 
 # Knowledge Check
 <Quiz quiz={quiz} shuffle={true} />
