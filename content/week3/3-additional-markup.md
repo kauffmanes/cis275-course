@@ -4,6 +4,8 @@ metaTitle: "Additional Markup"
 metaDescription: "Additional Markup"
 ---
 
+Read Duckett. Chp. 8 before continuing!
+
 # Commenting
 - Comments are not visible in the browser
 - So why might you use them?
