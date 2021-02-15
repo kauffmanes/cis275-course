@@ -11,8 +11,8 @@ The goal for this week is to make sure everyone is good to go on the content we'
 # Live Sessions
 These are optional and the goal is to do demos and answer specific questions. If you can't make either of these and still want to chat, let me know.
 
-1. Monday, Feb. 15 at 5:15 PM
-2. Thursday, Feb. 18 at 5:15 PM
+1. Thursday, Feb. 18 at 5:15 PM
+1. Monday, Feb. 22 at 5:15 PM
 
 Join on Microsoft Teams at those times. I'll add a link beforehand.
 
