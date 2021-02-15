@@ -17,7 +17,7 @@ import { quiz } from './4-quiz';
 1. Write any of the text elements (`p`, `strong`, etc)
 1. Write any of the HTML components (forms, tables, images, links)
 
-It's essential that you have a solid understanding of HTML beforing moving onto the design and CSS portions of the class!
+It's essential that you have a solid understanding of HTML before moving onto the design and CSS portions of the class!
 
 # Exercises
 As we begin to move into CSS, this exercise will give you the opportunity to create an HTML template that you can use later to easily dump content into, and work through the CSS. In other words, through this exercise you’ll develop a starting point where you can always return without having to look up all the typical HTML syntax over and over again. To successfully complete this assignment, you should exhibit mastery of all the items addressed in Weeks 1 and 2, and you should also be able to:
