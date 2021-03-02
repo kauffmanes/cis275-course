@@ -69,13 +69,13 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | February 9  | Forms | Duckett, Chp. 7 |
 | February 11 | Extra Markup, Exam Review | Duckett, Chp. 8 |
 | February 16 | Lab Activities: HTML |
-| February 18 | Lab Activities: HTML |
+| February 18 | Design Basics I |
 | February 23 | Exam 1: HTML | |
-| February 25 | Design Basics | |
-| March 2     | CSS Introduction | Duckett, Chps. 10-12 |
-| March 4     | Advanced CSS | Duckett, Chps. 13-15 |
-| March 9     | HTML5 Structural Elements and Exam Review | |
-| March 11    | Lab Activities: CSS | |
+| February 25 | Exam 1: HTML | |
+| March 2     | Design Basics II | |
+| March 4     | CSS Introduction | Duckett, Chps. 10-12 | 
+| March 9     | Advanced CSS | Duckett, Chps. 13-15 |
+| March 11    | HTML5 Structural Elements, Lab Activities: CSS, and Exam Review | |
 | March 16    | Exam 2: CSS | |
 | March 18    | More on Site Design | Duckett, Chp. 15 & 17 |
 | March 23    | CSS Layouts 1: Floats | Read **All About Floats** |
@@ -90,8 +90,8 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | April 22    | Intro to Responsive Web Design, RWD: Grids | |
 | April 27    | RWD: Media and Images, Media Queries | |
 | April 29    | RWD: Flows | |
-| April 4     | Partner Usability Study |  Complete Homework 6, Krug, Chps. 9-10 |
-| April 6     | Bringing it all Together | Krug, Chps. 11-12 |
+| May 4     | Partner Usability Study |  Complete Homework 6, Krug, Chps. 9-10 |
+| May 6     | Bringing it all Together | Krug, Chps. 11-12 |
 
 This schedule is subject to change throughout the semester. See the <a target="_blank" href="https://www.washjeff.edu/academics/our-support/college-calendar/">Academic Calendar</a> for more.
 

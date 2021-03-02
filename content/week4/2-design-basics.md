@@ -1,7 +1,7 @@
 ---
-title: "Design Basics"
-metaTitle: "Design Basics"
-metaDescription: "Design Basics"
+title: "Design Basics, Part I"
+metaTitle: "Design Basics, Part I"
+metaDescription: "Design Basics, Part I"
 ---
 
 **THIS LECTURE WILL NOT BE ON THE HTML TEST!**
