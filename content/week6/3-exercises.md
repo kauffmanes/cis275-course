@@ -89,4 +89,4 @@ import { quiz } from './6-quiz';
 ## Exercise 4: Analysis
 Find a website that you use often. Briefly analyze it in terms of the CRAP principles. How does it use (or not use) them? Post a paragrah or two in the week 6 chat on Teams.
 
-When you've completed the following exercises (minus Exercise 4), make a zip (Week2-FirstNameLastName) and email it to me. These will be graded on "best effort".
+When you've completed the following exercises (minus Exercise 4), make a zip (Week6-FirstNameLastName) and email it to me. These will be graded on "best effort".

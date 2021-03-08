@@ -11,6 +11,9 @@ metaDescription: "Week 6 Introduction"
 1. Finish our Intro to Design discussion
 1. Start learning CSS
 
+# Exams
+Your grades are now available on Sakai, along with comments where you lost points.
+
 # PAL Tutors
 Remember - we have PAL tutors for this course if you're stuck. They should be your go-to for troubleshooting!
 

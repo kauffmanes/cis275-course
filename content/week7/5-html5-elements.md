@@ -1,17 +1,15 @@
 ---
-title: "HTML5 Structural Elements"
+title: "HTML5 Elements"
+metaTitle: "HTML5 Elements"
+metaDescription: "HTML5 Elements"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Learn HTML5 structural elements</li>
-    <li>Review for CSS test</li>
-    <li>Practice</li>
-  </ol>
-</article>
+**Read Duckett chapter 17 before continuing.**
 
-## HTML5 Structural Elements
+# Goals
+Learn HTML5 structural elements.
+
+# HTML5 Structural Elements
 - HTML5 structural elements are basically specific *types* of DIVs
 - Makes HTML elements more meaningful
 - You'd more than likely have these elements on your page already...
