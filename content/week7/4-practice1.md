@@ -4,7 +4,7 @@ metaTitle: "Advanced CSS Practice"
 metaDescription: "Advanced CSS Practice"
 ---
 
-A few weeks ago, we [started a website](/week2/6-practice2)</a> to advertise our new web company, DubJay Designs. We want to revisit this with our new-found CSS knowledge!
+A few weeks ago, we [started a website](/week2/6-practice2) to advertise our new web company, DubJay Designs. We want to revisit this with our new-found CSS knowledge!
 
 # Exercise 1: HTML
 Create a new HTML document called `index.html` with all of the typical HTML structural elements. Create a CSS file called `styles.css`. Include the CSS file as an external stylesheet in your `index.html`. Using <a href="https://examples.emilykauffman.com/11-advanced-css/exercise1/index.html">this website</a>, write the HTML to mock up the content. Based on the appearance, try to think about which elements you'll need.
