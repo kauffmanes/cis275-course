@@ -61,17 +61,25 @@ Example: `firstName=Emily, email=ekauffman@washjeff.edu`
 ## Making choices: radio, checkbox, drop-down boxes
 ```html
 <form action="submit.php" method="get">
-	<label>Please select your favorite genre:<br/>
-		<input type="radio" name="genre" value="rock"> Rock
-		<input type="radio" name="genre" value="jazz"> Jazz
-		<input type="radio" name="genre" value="pop"> Pop
-	</label>
-	<label>Please select your favorite genre:<br/>
-		<input type="checkbox" name="genre" value="rock"> Rock
-		<input type="checkbox" name="genre" value="jazz"> Jazz
-		<input type="checkbox" name="genre" value="pop"> Pop
-	</label>
-	<label>Which streaming service do you use?
+  <p>Please select your favorite genre:</p>
+  <div>
+    <input type="radio" id="rock" name="genre" value="rock">
+    <label for="rock">Rock</label>
+    <input type="radio" id="jazz" name="genre" value="jazz">
+    <label for="jazz">Jazz</label>
+    <input type="radio" id="pop" name="genre" value="pop">
+    <label for="pop">Pop</label>
+  </div>
+  <p>Choose your interests:</p>
+  <div>
+    <input type="checkbox" id="coding" name="interest" value="coding">
+    <label for="coding">Coding</label>
+  </div>
+  <div>
+    <input type="checkbox" id="music" name="interest" value="music">
+    <label for="music">Music</label>
+  </div>
+  <label>Which streaming service do you use?
 		<select name="devices">
 			<option>I don't use one</option>
 			<option value="spotify">Spotify</option>
@@ -95,11 +103,10 @@ You can either use an input with a type "submit" or a button with type of "submi
 
 ```html
 <!-- option 1: input -->
-<form action="submit.php" method="get">
-	<label>Subscribe to our email list: <br/>
-		<input type="text" name="email" />
-		<input type="submit" name="Subscribe" value="Subscribe" />
-	</label>
+<form action="http://www.example.com/subscribe.php">
+	<p>Subscribe to our email list:</p>
+	<input type="text" name="email" />
+	<input type="submit" name="subscribe" value="Subscribe" />
 </form>
 ```
 
@@ -108,8 +115,8 @@ You can either use an input with a type "submit" or a button with type of "submi
 <form action="submit.php" method="get">
 	<label>Subscribe to our email list: <br/>
 		<input type="text" name="email" />
-		<button type="submit">Subscribe</button>
 	</label>
+	<button type="submit">Subscribe</button>
 </form>
 ```
 
@@ -151,12 +158,13 @@ Group related form elements together.
 
 ```html
 <fieldset>
-	<legend>Music Details</legend>
-	<label>Please select your favorite genre:<br/>
-		<input type="radio" name="genre" value="rock"> Rock
-		<input type="radio" name="genre" value="jazz"> Jazz
-		<input type="radio" name="genre" value="pop"> Pop
-	</label>
+	<legend>Please select your favorite genre:</legend>
+	<label>Email:<br />
+	<input type="text" name="email" /></label><br />
+	<label>Mobile:<br />
+	<input type="text" name="mobile" /></label><br />
+	<label>Telephone:<br />
+	<input type="text" name="telephone" /></label>
 </fieldset>
 ```
 
