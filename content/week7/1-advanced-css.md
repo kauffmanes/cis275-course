@@ -4,7 +4,7 @@ metaTitle: "Advanced CSS"
 metaDescription: "Advanced CSS"
 ---
 
-Before continuing, read **Duckett, Chps. 13-15**.
+Before continuing, read **Duckett, Chps. 13-15**. The following video includes a walkthrough of the homework and an explanation of how to add custom fonts to your page.
 
 `youtube:Ean77n4-MG8`
 

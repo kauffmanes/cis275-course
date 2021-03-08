@@ -49,7 +49,7 @@ Imagine an invisible box drawn around every element on a page.
 
 # Statement Construction (Syntax)
 - Works by associating rules with HTML elements
-- Style sheets are made up of **statements** (CSS rules) which consist of **selectors** and **declaration**.
+- Style sheets are made up of **statements** (CSS rules) which consist of **selectors** and **declarations**.
 - Selectors indicate which element the rule applies to.
 
 ```css
