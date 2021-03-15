@@ -77,7 +77,7 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | March 9     | Advanced CSS | Duckett, Chps. 13-15 |
 | March 11    | HTML5 Structural Elements, Lab Activities: CSS, and Exam Review | |
 | March 16    | Exam 2: CSS | |
-| March 18    | More on Site Design | Duckett, Chp. 15 & 17 |
+| March 18    | More on Site Design | Duckett, Chp. 15-17 |
 | March 23    | CSS Layouts 1: Floats | Read **All About Floats** |
 | March 25    | CSS Layouts 2: Flex | |
 | March 30    | Lab Activities: Layouts |
