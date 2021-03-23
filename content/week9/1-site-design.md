@@ -6,6 +6,8 @@ metaDescription: "More on Site Design"
 
 First, go read Duckett, Chps. 15-17! Some of this will be review.
 
+`youtube:vSE1owwE1tw`
+
 # Review of Concepts
 
 ## Box Model: Block vs Inline
@@ -18,7 +20,7 @@ First, go read Duckett, Chps. 15-17! Some of this will be review.
 - Review Duckett book for a more thorough explanation
 
 ## Positioning
-Chris Coyier is a really great CSS developer who maintains the CSS Tricks site. I'm sure it's come up as a search result when Googling anything relating to CSS. He does a great overview of positioning in CSS to expand on what we've learned in class. Watch this as a refresher on positioning!
+Chris Coyier is a really great CSS developer who maintains the CSS Tricks site. I'm sure it's come up as a search result when Googling anything relating to CSS. He does a great overview of positioning in CSS to expand on what we've learned in class. Watch this if you need a refresher on positioning!
 
 `youtube: https://www.youtube.com/watch?v=gKvxlYCzJXw`
 
@@ -28,8 +30,6 @@ Chris Coyier is a really great CSS developer who maintains the CSS Tricks site. 
 - Read: https://css-tricks.com/almanac/properties/p/position/
 
 # Page Design
-`youtube:123`
-
 - Keep the CRAP principles in mind always
 - Use other websites for inspiration, but remember, you're the designer!
 - We're going to look at specific elements of effective page design.
