@@ -1,14 +1,10 @@
 ---
 title: "Week 13"
-subtitle: "April 11-17, 2021"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+subtitle: "April 18-24, 2021"
+metaTitle: "Week 13 Introduction"
+metaDescription: "Week 13 Introduction"
 ---
 
-# Learning Goals
-1. Bringing it all together
-1. Deployment
-1. JavaScript, frameworks,  & libraries
-
-# What's Due
-What's due this week
+## Learning Goals
+1. More Responsive Web Design
+2. Usability Studies

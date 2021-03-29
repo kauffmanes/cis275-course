@@ -1,17 +1,10 @@
 ---
 title: "Personal Sites"
+metaTitle: "Personal Sites"
+metaDescription: "Personal Sites"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Work on personal project planning</li>
-  </ol>
-</article>
-
 ## Intro
-No formal lesson today! We are a day ahead in what I had planned for our original schedule and so I am going to give you today to work on project planning before we jump into responsive web design next week.
-
 Last week, we talked about the web design and development process. We want to start on that for our final projects.
 You'll take an approach similar to what we did in [Lecture 19](/teaching/cis-275/web-dev-planning) with Alice's website.
 

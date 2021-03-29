@@ -1,42 +1,8 @@
 ---
-title: "Responsive Web Design, continued"
+title: "Exercises"
+metaTitle: "Week 12 Exercises"
+metaDescription: "Week 12 Exercises"
 ---
-
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Review previous class's exercises</li>
-    <li>Learn flexible images</li>
-    <li>Learn how to use media queries</li>
-    <li>Homework #6</li>
-    <li>Next class</li>
-  </ol>
-</article>
-
-## Review of Flexible Grid exercises
-Class intro and review of previous exercises. I recommend you follow along and make sure you understand flexible grids before moving on.
-
-`youtube: https://youtu.be/6G30TCbaNic`
-
-## Flexible Images and Media
-We are now experts at flexible layouts and converting mockups with pixels to flexible units. Now we want to focus on making our images be flexible. 
-
-`youtube: https://youtu.be/wuRBMquRows`
-
-## Media Queries
-Our layouts are flexible, our images are scaling... but when you get to a really small screen, the content doesn't always look like it should. This is where
-media queries are useful. We might want things to display different on different screen sizes and resolutions.
-
-### Explanation
-`youtube: https://youtu.be/worLEblcrqk`
-
-### Practical Example
-`youtube: https://youtu.be/J4C_l2aFEzo`
-
-[GitHub Link](https://github.com/kauffmanes/lec23-rwd-media-queries)
-
-## Lecture Exercises:
-**Due**: Thursday, 9:00 AM, April 30<br/>
 
 Through this exercise, you'll develop the ability to test your understandings of Responsive Web Design (RWD). Specifically, you should implement fluid layouts, flexible images, and media queries. To successfully complete this task, you should be able to exhibit mastery of the objectives from Exercises 1-5, and you should also:
 1. Understand the elements that constitute RWD and how to employ them

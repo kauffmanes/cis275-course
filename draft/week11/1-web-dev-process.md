@@ -1,23 +1,21 @@
 ---
-title: "Planning and Process"
+title: "The Web Design Process"
+metaTitle: "The Web Design Process"
+metaDescription: "The Web Design Process"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>How to approach building a site</li>
-    <li>Understanding your audience and their needs</li>
-    <li>How to present information visitors want to see</li>
-  </ol>
-</article>
+## Learning Goals
+1. How to approach building a site
+1. Understanding your audience and their needs
+1. How to present information visitors want to see
 
-## Web Design Process
-1. Read the chapter! It includes a lot that I don't have in the video.
+## The Web Design Process
+1. Read Duckett, chp. 18. It includes a lot that I don't have in the video.
 1. Watch the video.
 
-`youtube: https://youtu.be/meefX1SW4DA`
+`youtube:meefX1SW4DA`
 
-## In Class Exercises
+## Practice Exercises
 DubJay Designs has its first client! Your web development business is really taking off. A local bike shop owner, Alice, wants a new website and has hired you to make it. 
 After sitting down and interviewing her, you write the following notes:
 - wants to showcase her business and what it's about
@@ -37,9 +35,4 @@ Work through the following questions. If you don't know all of the information, 
 ### Step 2: Designing the Infrastructure
 1. Create a sitemap for the new website that encompasses the information given to you by Alice.
 1. Create a wireframe for the home page. This can be drawn or done with a wireframe program. The level of detail is up to you, but it should cover the key information.
-1. Take all of these deliverables, zip them, and email them to be by Sunday, 11:59 PM. This won't be graded for correctness - just participation.
-
-### Step 3: Summary
-Comment in the Lecture 19 channel:
-1. One thing you've learned or found interesting.
-1. One question or confusion that you have.
+1. Take all of these deliverables, zip them, and email them to be by Sunday, 11:59 PM.

@@ -1,14 +1,11 @@
 ---
-title: "Peer Review Study"
+title: "Usability Studies"
+metaTitle: "Usability Studies"
+metaDescription: "Usability Studies"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Review of reading</li>
-    <li>Partner Usability Study</li>
-  </ol>
-</article>
+1. Review of reading
+1. Partner Usability Study
 
 ## Layout Project Feedback and Things To Avoid on the Final
 1. The layout project was all about developing an effective flexible layout, so I didn't care as much about typography or design (other than CRAP principles, which are always necessary!). The final project is to demonstrate your design AND development skills, so you'll want to spend some time coming up with an aesthetically pleasing site, in addition to code that validates.
@@ -47,9 +44,3 @@ This is just an example, so feel free to expand on this. Ask questions. Have a d
 1. Order them from most egregious to less.
 1. Then, make a plan for how to fix each one.
 1. Post your plan in the channel.
-
-## Rest of Class
-The rest of the class you are welcome to spend working on your projects and fixing issues that arise during your study. I'll be popping in and out of chats to ask questions or give feedback if needed.
-
-## Final Notes
-I am cancelling the lecture for May 5th. I think you all would get more out of having extra project work time than learning new content, but you have to promise you'll put this extra time in refining your final projects! I'm bored and want to see cool, responsive stuff. I moved the Krug Chp 11-12 readings up to May 7th instead of the 12th (see updated syllabus), and we'll spend the last class talking about what would come next for a website. I'll do an intro of JavaScript or talk about how to get your websites on a server.

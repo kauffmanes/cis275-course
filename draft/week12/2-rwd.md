@@ -1,14 +1,12 @@
 ---
 title: "Intro to Responsive Web Design"
+metaTitle: "Intro to Responsive Web Design"
+metaDescription: "Intro to Responsive Web Design"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Gain an understanding of Responsive Web Design</li>
-    <li>Understand the flexible grid</li>
-  </ol>
-</article>
+## Learning Goals
+1. Gain an understanding of Responsive Web Design
+1. Understand the flexible grid
 
 ## Responsive Web Design: What is it? Why do we care?
 `youtube: https://youtu.be/T-rheePd54o`
@@ -102,6 +100,3 @@ footer {
 I threw a lot of information at you today. If you need more examples or a further explanation, please let me know. Comment in the Lecture 22 channel:
 1. One thing you've learned or found interesting.
 1. One question or confusion that you have.
-
-## Next Class
-Ingredient #2: Responsive media/images, media queries

@@ -1,17 +1,10 @@
 ---
 title: "Site Design Issues"
+metaTitle: "Site Design Issues"
+metaDescription: "Site Design Issues"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Discuss Krug chapters 1-7</li>
-    <li>Introduce final project</li>
-  </ol>
-</article>
-
-## Web and Mobile Usability
-`youtube: https://youtu.be/E6o-1L634sA`
+`youtube:E6o-1L634sA`
 [Slides](https://docs.google.com/presentation/d/11N6ngT06k8SBTe3ViGDW-DDuJlpUVrz2u1eMeRXPYrs/edit?usp=sharing)
 
 ## Final Project
@@ -24,7 +17,7 @@ You will be making a a personal website that showcases your professional skills.
 1. Generate carefully edited HTML and CSS with absolutely no errors
 1. Plan a website from an idea to a first version
 
-If you are planning to get into a writing career, you should include writing samples. If you are planning on being a photographer, it should include photos. If you want to be a web developer, it should showcase some of the web development work you've done. This can include any writing, a technical blog, photos, etc. The design is really up to you. It should follow CRAP principles, make use of color theory, typography, etc. It should be **responsive**, which is a concept we'll cover in the next few weeks. This is more than a test of your technical abilities (unlike the mini layout project). You should be able to demonstrate a mastery of HTML, CSS, layouts, and design.
+If you are planning to get into a writing career, you should include writing samples. If you are planning on being a photographer, it should include photos. If you want to be a web developer, it should showcase some of the web development work you've done. This can include any writing, a technical blog, photos, etc. The design is really up to you. It should follow CRAP principles, make use of color theory, typography, etc. It should be **responsive**, which is a concept we'll cover in the next few weeks. This is more than a test of your technical abilities (unlike the layout project). You should be able to demonstrate a mastery of HTML, CSS, layouts, and design.
 
 It should include (at a minimum):
 1. Multiple HTML pages
@@ -37,9 +30,9 @@ It should include (at a minimum):
 Including **just** the content above will not get you an A. You need to put time and thought into the content, the media (images, videos), the layout, colors, typography, etc. This is your chance to show me and the world what you've learned.
 
 ### Important Dates
-- 4/14 - Project introduced
-- 4/28 - Partner usability review
-- 5/12 - Final project due by beginning of class
+- This week - Project introduced
+- Next week - Partner usability review
+- Last Week of the class - Final project due
 
 We will have further impromptu activities and check-ins relating to this as we go.
 

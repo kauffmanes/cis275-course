@@ -1,13 +1,10 @@
 ---
 title: "Week 12"
 subtitle: "April 11-17, 2021"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "Week 12 Introduction"
+metaDescription: "Week 12 Introduction"
 ---
 
-# Learning Goals
-1. More RWD
-1. Usability
-
-# What's Due
-What's due this week
+## Learning Goals
+1. Personal Site Process
+2. Intro to Responsive Web Design

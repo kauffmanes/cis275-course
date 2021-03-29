@@ -1,17 +1,12 @@
 ---
-title: "CIS 275 Lecture 24: Responsive Layouts"
-date: "2020-04-28"
-path: /teaching/cis-275/responsive-layouts
-tags: cis-275
+title: "Responsive Layouts"
+metaTitle: "Responsive Layouts"
+metaDescription: "Responsive Layouts"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Responsive web design workflows</li>
-    <li>Browser compatibility issues and testing</li>
-  </ol>
-</article>
+## Learning Goals
+1. Responsive web design workflows
+1. Browser compatibility issues and testing
 
 ## RWD: Workflows
 `youtube: https://youtu.be/octNNGr3dss`
@@ -49,7 +44,7 @@ Here are some fun CSS links if you're looking to expand your CSS knowledge!
 - https://css-tricks.com/almanac/properties/a/animation/
 - https://css-art.com/
 
-## In Class Exercises
+## Practice Exercises
 Answer in the Lecture 24 channel:
 1. Why might we want to take a mobile first approach?
 1. What's the difference between progressive enhancement and graceful degradation? Why might you use one over the other?
@@ -61,10 +56,10 @@ Answer in the Lecture 24 channel:
 We're going to hold our usability study during our normal class time. This means that you should log in at 9 AM! You should let me know if this time doesn't work for you ASAP. The goal here is to show your website to your group members. They'll load it on their computers and review it. I made a Teams channel for each group, and I'll be dropping by each of them to ask questions and help facilitate the discussion. Please let me know if you can't access your channel.
 
 **Partners:**
-- Caity and Spencer
+<!-- - Caity and Spencer
 - Kate, Brie, and Anna
 - Tyler and Aaron
 - Brenna and Brooke
 - Gretchen and Carly
 - Gracy, Ty, and Easton
-- Zach and Alex
+- Zach and Alex -->

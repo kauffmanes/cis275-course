@@ -39,11 +39,13 @@ const config = {
       '/week6',
       '/week7',
       '/week8',
-      // '/week9',
-      // '/week10',
+      '/week9',
+      '/week10',
       // '/week11',
       // '/week12',
-      // '/week13'
+      // '/week13',
+      // '/week14',
+      // '/week15'
     ],
     collapsedNav: [
       '/week1',
@@ -53,12 +55,14 @@ const config = {
       '/week5',
       '/week6',
       '/week7',
-      // '/week8',
-      // '/week9',
+      '/week8',
+      '/week9',
       // '/week10',
       // '/week11',
       // '/week12',
-      // '/week13'
+      // '/week13',
+      // '/week14',
+      // '/week15'
     ],
     links: [{ text: 'Emily Kauffman', link: 'https://emilykauffman.com' }],
     frontline: false,

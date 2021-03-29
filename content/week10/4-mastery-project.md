@@ -1,33 +1,11 @@
 ---
-title: "Layout Lab"
+title: "Mastery Project"
+metaTitle: "Mastery Project"
+metaDescription: "Mastery Project"
 ---
 
-<article class="highlighted">
-  <h2>Goals</h2>
-  <ol>
-    <li>Review of concepts</li>
-    <li>Work on the project</li>
-  </ol>
-</article>
-
-## Review of Concepts
-We've covered in detail positioning and layouts. So far in our web design and development toolkit
-we have HTML, design basics including some color theory, typography, and CRAP principles, we have CSS, and we know how to make page layouts.
-At this point, you have a lot of the technical skills needed to make websites. Nice!
-
-In the next two weeks, we'll be starting our second book, **Don't Make Me Think by Krug**. If you don't have this book yet, you should think about finding it soon. It's pretty inexpensive and 
-a lot of publishers have made books free online during the pandemic, so that might be worth checking out.
-
----
-
-## Reset/Normalize CSS
-`youtube: https://youtu.be/6627awbhO08`
-
----
-
-## Layout Project
-The mastery exam was meant to be a coding exam that was completed in the classroom to demonstrate that you were familiar with layouts and positioning, and able to recreate a site
-based on a mock up. That is no longer feasible due to this class being remote, and so I've come up with a project that accomplishes similar goals.
+## Introduction of the Mastery Project
+The mastery exam was meant to be a coding exam that was completed in the classroom to demonstrate that you were familiar with layouts and positioning, and able to recreate a site based on a mock up. That is no longer feasible due to this class being remote, and so I've come up with a project that accomplishes similar goals.
 
 ### Prompt
 You're a famous photographer! When did that happen?? Anyway, you've decided that you want to show off your photos by making a photography site. These photos do not have to be good. We're just working on our layout skills!
@@ -51,22 +29,12 @@ I don't care if you use other photography websites as motivation, in fact, I enc
 1. https://www.doryyounes.com/
 1. https://www.mpkelley.com/gallery
 
-### Dates
-I had the due date originally set for April 9th but am changing this to April 12th at 11:59 PM.
+## Dates
+This will be due on April 7th at 11:59 PM. Note - this is a Wednesday. I'm giving a few extra days to work on it, so I'm expecting a solid design and layout, proper naming, and no coding errors.
 
 ### Grading
-The project will be worth the same as the mastery exam: 30% of your grade. The rubric:
+The project will be worth 30% of your grade. The rubric:
 - 10% design decisions (CRAP principles)
 - 30% correctness of HTML (semantics and syntax)
 - 30% correctness of CSS (semantics and syntax)
 - 30% fulfills layout requirements above
-
----
-
-## In Class Exercises
-1. Make one post in Lecture 17's channel stating a reflection on today's content, and something you're confused on, if anything.
-1. Start on the project!
-
-## Additional Resources
-1. [A Guide to CSS Layouts](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
-
