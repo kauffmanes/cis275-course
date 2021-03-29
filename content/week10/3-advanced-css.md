@@ -10,12 +10,6 @@ advanced web design designs. We're going to work through a number of the example
 
 For each section, read the associated article and then watch the demo video.
 
-## CSS Overflow
-1. Read <a target="_blank" href="https://www.w3schools.com/css/css_overflow.asp">CSS Overflow</a>
-1. Watch the video.
-
-`youtube: https://youtu.be/Pz3bgvcnOB4`
-
 ## CSS Combinators
 CSS combinators were already covered in the book on the chapter on selectors, but it's good to have a refresher! Remember that you can target your elements in a multiude of ways.
 
