@@ -23,7 +23,7 @@ In addition to these two books, there may be assigned readings based on current 
 | HTML Exam | 15% |
 | CSS Exam | 15% |
 | Homework & Weekly Participation | 10% |
-| Layout Project | 30% |
+| Layout Mastery Project | 30% |
 | Personal Website | 30% | 
 
 The only way to really learn this type of content is to do it every week. To that end, I'll be assigning exercises to complete on your own. If you get stuck, contact the PAL tutors, or email me.
@@ -82,10 +82,10 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | March 25    | CSS Layouts 1: Floats | Read **All About Floats** | |
 | March 30    | CSS Layouts 2: Flex |
 | April 1     | Lab Activities: Layouts |
-| April 6     | More Advanced CSS | |
-| April 8     | Project Day | |
-| April 13    | Web Development Planning and Process | Duckett, Chp. 18 |
-| April 15    | Site Design Issues | Krug, Chps. 1-7 |
+| April 6     | Web Development Planning and Process | Duckett, Chp. 18 |
+| April 8     | College Day Off | |
+| April 13    | Site Design Issues | Krug, Chps. 1-7 |
+| April 15    | Project Work Day |
 | April 20    | Personal Sites | |
 | April 22    | Intro to Responsive Web Design, RWD: Grids | |
 | April 27    | RWD: Media and Images, Media Queries | |

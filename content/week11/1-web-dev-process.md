@@ -13,7 +13,8 @@ metaDescription: "The Web Design Process"
 1. Read Duckett, chp. 18. It includes a lot that I don't have in the video.
 1. Watch the video.
 
-`youtube:meefX1SW4DA`
+`youtube:aVAFGWUTN-U`
+[Slides](https://docs.google.com/presentation/d/1Vn7rmt9GEvMdtrvyXu7fscixz4h1q34NTzW6rJLRMt4/edit?usp=sharing)
 
 ## Practice Exercises
 DubJay Designs has its first client! Your web development business is really taking off. A local bike shop owner, Alice, wants a new website and has hired you to make it. 
@@ -35,4 +36,4 @@ Work through the following questions. If you don't know all of the information, 
 ### Step 2: Designing the Infrastructure
 1. Create a sitemap for the new website that encompasses the information given to you by Alice.
 1. Create a wireframe for the home page. This can be drawn or done with a wireframe program. The level of detail is up to you, but it should cover the key information.
-1. Take all of these deliverables, zip them, and email them to be by Sunday, 11:59 PM.
+1. If you want feedback, take all of these deliverables, zip them, and email them to me.
