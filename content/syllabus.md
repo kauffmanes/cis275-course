@@ -85,7 +85,7 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | April 6     | Web Development Planning and Process | Duckett, Chp. 18 |
 | April 8     | College Day Off | |
 | April 13    | Site Design Issues | Krug, Chps. 1-7 |
-| April 15    | Project Work Day |
+| April 15    | Project Work |
 | April 20    | Personal Sites | |
 | April 22    | Intro to Responsive Web Design, RWD: Grids | |
 | April 27    | RWD: Media and Images, Media Queries | |
