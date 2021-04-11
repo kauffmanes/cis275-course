@@ -4,10 +4,6 @@ metaTitle: "Responsive Layouts"
 metaDescription: "Responsive Layouts"
 ---
 
-## Learning Goals
-1. Responsive web design workflows
-1. Browser compatibility issues and testing
-
 ## RWD: Workflows
 `youtube: https://youtu.be/octNNGr3dss`
 
@@ -49,17 +45,3 @@ Answer in the Lecture 24 channel:
 1. Why might we want to take a mobile first approach?
 1. What's the difference between progressive enhancement and graceful degradation? Why might you use one over the other?
 1. Do you think that the *mobile first* philosophy is more similar to progressive enhancement or gradeful degradation? Why?
-
-## Next Class
-**Read**: Krug, Chps. 9-10
-
-We're going to hold our usability study during our normal class time. This means that you should log in at 9 AM! You should let me know if this time doesn't work for you ASAP. The goal here is to show your website to your group members. They'll load it on their computers and review it. I made a Teams channel for each group, and I'll be dropping by each of them to ask questions and help facilitate the discussion. Please let me know if you can't access your channel.
-
-**Partners:**
-<!-- - Caity and Spencer
-- Kate, Brie, and Anna
-- Tyler and Aaron
-- Brenna and Brooke
-- Gretchen and Carly
-- Gracy, Ty, and Easton
-- Zach and Alex -->

@@ -85,13 +85,13 @@ I will post two classes worth of information each week on Tuesday. You will be e
 | April 6     | Web Development Planning and Process | Duckett, Chp. 18 |
 | April 8     | College Day Off | |
 | April 13    | Site Design Issues | Krug, Chps. 1-7 |
-| April 15    | Project Work |
-| April 20    | Personal Sites | |
-| April 22    | Intro to Responsive Web Design, RWD: Grids | |
-| April 27    | RWD: Media and Images, Media Queries | |
-| April 29    | RWD: Flows | |
-| May 4     | Partner Usability Study |  Complete Homework 6, Krug, Chps. 9-10 |
-| May 6     | Bringing it all Together | Krug, Chps. 11-12 |
+| April 15    | Project Work, Intro to Responsive Web Design |
+| April 20    | Intro to Responsive Web Design, RWD: Grids | |
+| April 22    | RWD: Media and Images, Media Queries | |
+| April 27    | RWD: Flows | |
+| April 29    | Partner Usability Study | Krug, Chps. 9-10 |
+| May 4     | Bringing it all Together |  Krug, Chps. 11-12 |
+| May 6     | Bringing it all Together, con't | Krug, Chps. 11-12 |
 
 This schedule is subject to change throughout the semester. See the <a target="_blank" href="https://www.washjeff.edu/academics/our-support/college-calendar/">Academic Calendar</a> for more.
 

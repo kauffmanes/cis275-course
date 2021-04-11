@@ -4,8 +4,7 @@ metaTitle: "Usability Studies"
 metaDescription: "Usability Studies"
 ---
 
-1. Review of reading
-1. Partner Usability Study
+**Before continuing, read Krug, Chps. 9-10.**
 
 ## Layout Project Feedback and Things To Avoid on the Final
 1. The layout project was all about developing an effective flexible layout, so I didn't care as much about typography or design (other than CRAP principles, which are always necessary!). The final project is to demonstrate your design AND development skills, so you'll want to spend some time coming up with an aesthetically pleasing site, in addition to code that validates.
@@ -13,7 +12,7 @@ metaDescription: "Usability Studies"
 1. Use conventions: `index.html` for the entrypoint to a website.
 1. Avoid browser default fonts and colors - they make sites look incomplete.
 1. *Always* validate your HTML and CSS. This catches a lot of the little mistakes that will cause you to lose points. There's an <a href="https://validator.w3.org/" target="_blank">HTML one</a> and also a <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS one</a>.
-1. Remember, alt tags on images aren't optional. Don't get sued.
+1. Remember, alt tags on non-decorative images aren't optional. 
 1. Run through each feature you make and ask yourself: do they follow each of the CRAP principles?
 1. Put thought into your typography and color palette. Remember our design lesson!
 
@@ -41,6 +40,6 @@ This is just an example, so feel free to expand on this. Ask questions. Have a d
 
 ### Retrospective for Project Owner
 1. Make a list of the problems found.
-1. Order them from most egregious to less.
+1. Order them from most egregious to least.
 1. Then, make a plan for how to fix each one.
 1. Post your plan in the channel.
