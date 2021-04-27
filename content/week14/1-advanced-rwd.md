@@ -5,7 +5,7 @@ metaDescription: "Responsive Layouts"
 ---
 
 ## RWD: Workflows
-`youtube: https://youtu.be/octNNGr3dss`
+`youtube:QSUPPHsxCd0`
 
 - Ask yourself: really *how* is the site going to be used?
 - Know the user's context - does their priority change when their context changes?
@@ -31,17 +31,12 @@ metaDescription: "Responsive Layouts"
 @media screen and (min-width: 1400px) { … }
 ```
 
-## Fun CSS
+<!-- ## Fun CSS
 `youtube: https://youtu.be/thYpa64cLwg`
-
-Here are some fun CSS links if you're looking to expand your CSS knowledge!
-- https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-- https://designshack.net/articles/css/new-css-techniques/
-- https://css-tricks.com/almanac/properties/a/animation/
-- https://css-art.com/
+ -->
 
 ## Practice Exercises
-Answer in the Lecture 24 channel:
+Answer in the Week 14 channel:
 1. Why might we want to take a mobile first approach?
 1. What's the difference between progressive enhancement and graceful degradation? Why might you use one over the other?
 1. Do you think that the *mobile first* philosophy is more similar to progressive enhancement or gradeful degradation? Why?
